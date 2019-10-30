@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/zadanie-2-10.dir/zadanie-2-10.cpp.obj"
-  "libzadanie-2-10.dll.a"
-  "zadanie-2-10.exe"
-  "zadanie-2-10.exe.manifest"
+  "CMakeFiles/zadanie-2-10.dir/zadanie-2-10.cpp.o"
+  "zadanie-2-10"
   "zadanie-2-10.pdb"
 )
 
