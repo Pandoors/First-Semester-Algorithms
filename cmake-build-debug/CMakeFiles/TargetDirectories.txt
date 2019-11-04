@@ -1,14 +1,17 @@
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-3-6.dir
+/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-2-2.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-3-3.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-3-2.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-2-10.dir
+/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-4-1.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-2-9.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-2-7.dir
-/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-2-2.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-2-4.dir
+/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-1-1.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-2-1.dir
+/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-4-1.2.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-2-6.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-2-3.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-1-6.dir
@@ -19,4 +22,3 @@
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-1-4.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-1-5.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-1-2.dir
-/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-1-1.dir

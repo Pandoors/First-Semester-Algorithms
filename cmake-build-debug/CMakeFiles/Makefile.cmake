@@ -53,14 +53,17 @@ set(CMAKE_MAKEFILE_PRODUCTS
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/zadanie-3-6.dir/DependInfo.cmake"
+  "CMakeFiles/zadanie-2-2.dir/DependInfo.cmake"
   "CMakeFiles/zadanie-3-3.dir/DependInfo.cmake"
   "CMakeFiles/zadanie-3-2.dir/DependInfo.cmake"
   "CMakeFiles/zadanie-2-10.dir/DependInfo.cmake"
+  "CMakeFiles/zadanie-4-1.dir/DependInfo.cmake"
   "CMakeFiles/zadanie-2-9.dir/DependInfo.cmake"
   "CMakeFiles/zadanie-2-7.dir/DependInfo.cmake"
-  "CMakeFiles/zadanie-2-2.dir/DependInfo.cmake"
   "CMakeFiles/zadanie-2-4.dir/DependInfo.cmake"
+  "CMakeFiles/zadanie-1-1.dir/DependInfo.cmake"
   "CMakeFiles/zadanie-2-1.dir/DependInfo.cmake"
+  "CMakeFiles/zadanie-4-1.2.dir/DependInfo.cmake"
   "CMakeFiles/zadanie-2-6.dir/DependInfo.cmake"
   "CMakeFiles/zadanie-2-3.dir/DependInfo.cmake"
   "CMakeFiles/zadanie-1-6.dir/DependInfo.cmake"
@@ -71,5 +74,4 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/zadanie-1-4.dir/DependInfo.cmake"
   "CMakeFiles/zadanie-1-5.dir/DependInfo.cmake"
   "CMakeFiles/zadanie-1-2.dir/DependInfo.cmake"
-  "CMakeFiles/zadanie-1-1.dir/DependInfo.cmake"
   )
