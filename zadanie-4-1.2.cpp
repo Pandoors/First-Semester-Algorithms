@@ -47,3 +47,4 @@ int main()
     }
     return 0;
 }
+//TODO: rewrite other 4. examples

@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named zadanie-5-1
+
+# Build rule for target.
+zadanie-5-1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-5-1
+.PHONY : zadanie-5-1
+
+# fast build rule for target.
+zadanie-5-1/fast:
+	$(MAKE) -f CMakeFiles/zadanie-5-1.dir/build.make CMakeFiles/zadanie-5-1.dir/build
+.PHONY : zadanie-5-1/fast
+
+#=============================================================================
 # Target rules for targets named zadanie-3-6
 
 # Build rule for target.
@@ -226,19 +239,6 @@ zadanie-2-4: cmake_check_build_system
 zadanie-2-4/fast:
 	$(MAKE) -f CMakeFiles/zadanie-2-4.dir/build.make CMakeFiles/zadanie-2-4.dir/build
 .PHONY : zadanie-2-4/fast
-
-#=============================================================================
-# Target rules for targets named zadanie-1-1
-
-# Build rule for target.
-zadanie-1-1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-1-1
-.PHONY : zadanie-1-1
-
-# fast build rule for target.
-zadanie-1-1/fast:
-	$(MAKE) -f CMakeFiles/zadanie-1-1.dir/build.make CMakeFiles/zadanie-1-1.dir/build
-.PHONY : zadanie-1-1/fast
 
 #=============================================================================
 # Target rules for targets named zadanie-2-1
@@ -358,6 +358,19 @@ zadanie-3-1/fast:
 .PHONY : zadanie-3-1/fast
 
 #=============================================================================
+# Target rules for targets named zadanie-5-2
+
+# Build rule for target.
+zadanie-5-2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-5-2
+.PHONY : zadanie-5-2
+
+# fast build rule for target.
+zadanie-5-2/fast:
+	$(MAKE) -f CMakeFiles/zadanie-5-2.dir/build.make CMakeFiles/zadanie-5-2.dir/build
+.PHONY : zadanie-5-2/fast
+
+#=============================================================================
 # Target rules for targets named zadanie-1-4
 
 # Build rule for target.
@@ -395,6 +408,19 @@ zadanie-1-2: cmake_check_build_system
 zadanie-1-2/fast:
 	$(MAKE) -f CMakeFiles/zadanie-1-2.dir/build.make CMakeFiles/zadanie-1-2.dir/build
 .PHONY : zadanie-1-2/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-1-1
+
+# Build rule for target.
+zadanie-1-1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-1-1
+.PHONY : zadanie-1-1
+
+# fast build rule for target.
+zadanie-1-1/fast:
+	$(MAKE) -f CMakeFiles/zadanie-1-1.dir/build.make CMakeFiles/zadanie-1-1.dir/build
+.PHONY : zadanie-1-1/fast
 
 zadanie-1-1.o: zadanie-1-1.cpp.o
 
@@ -990,6 +1016,60 @@ zadanie-4-1.cpp.s:
 	$(MAKE) -f CMakeFiles/zadanie-4-1.dir/build.make CMakeFiles/zadanie-4-1.dir/zadanie-4-1.cpp.s
 .PHONY : zadanie-4-1.cpp.s
 
+zadanie-5-1.o: zadanie-5-1.cpp.o
+
+.PHONY : zadanie-5-1.o
+
+# target to build an object file
+zadanie-5-1.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-5-1.dir/build.make CMakeFiles/zadanie-5-1.dir/zadanie-5-1.cpp.o
+.PHONY : zadanie-5-1.cpp.o
+
+zadanie-5-1.i: zadanie-5-1.cpp.i
+
+.PHONY : zadanie-5-1.i
+
+# target to preprocess a source file
+zadanie-5-1.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-5-1.dir/build.make CMakeFiles/zadanie-5-1.dir/zadanie-5-1.cpp.i
+.PHONY : zadanie-5-1.cpp.i
+
+zadanie-5-1.s: zadanie-5-1.cpp.s
+
+.PHONY : zadanie-5-1.s
+
+# target to generate assembly for a file
+zadanie-5-1.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-5-1.dir/build.make CMakeFiles/zadanie-5-1.dir/zadanie-5-1.cpp.s
+.PHONY : zadanie-5-1.cpp.s
+
+zadanie-5-2.o: zadanie-5-2.cpp.o
+
+.PHONY : zadanie-5-2.o
+
+# target to build an object file
+zadanie-5-2.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-5-2.dir/build.make CMakeFiles/zadanie-5-2.dir/zadanie-5-2.cpp.o
+.PHONY : zadanie-5-2.cpp.o
+
+zadanie-5-2.i: zadanie-5-2.cpp.i
+
+.PHONY : zadanie-5-2.i
+
+# target to preprocess a source file
+zadanie-5-2.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-5-2.dir/build.make CMakeFiles/zadanie-5-2.dir/zadanie-5-2.cpp.i
+.PHONY : zadanie-5-2.cpp.i
+
+zadanie-5-2.s: zadanie-5-2.cpp.s
+
+.PHONY : zadanie-5-2.s
+
+# target to generate assembly for a file
+zadanie-5-2.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-5-2.dir/build.make CMakeFiles/zadanie-5-2.dir/zadanie-5-2.cpp.s
+.PHONY : zadanie-5-2.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -997,6 +1077,7 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
+	@echo "... zadanie-5-1"
 	@echo "... zadanie-3-6"
 	@echo "... zadanie-2-2"
 	@echo "... zadanie-3-3"
@@ -1006,8 +1087,6 @@ help:
 	@echo "... zadanie-2-9"
 	@echo "... zadanie-2-7"
 	@echo "... zadanie-2-4"
-	@echo "... zadanie-1-1"
-	@echo "... edit_cache"
 	@echo "... zadanie-2-1"
 	@echo "... zadanie-4-1.2"
 	@echo "... zadanie-2-6"
@@ -1017,9 +1096,12 @@ help:
 	@echo "... zadanie-1-3"
 	@echo "... zadanie-2-5"
 	@echo "... zadanie-3-1"
+	@echo "... zadanie-5-2"
 	@echo "... zadanie-1-4"
 	@echo "... zadanie-1-5"
 	@echo "... zadanie-1-2"
+	@echo "... edit_cache"
+	@echo "... zadanie-1-1"
 	@echo "... zadanie-1-1.o"
 	@echo "... zadanie-1-1.i"
 	@echo "... zadanie-1-1.s"
@@ -1086,6 +1168,12 @@ help:
 	@echo "... zadanie-4-1.o"
 	@echo "... zadanie-4-1.i"
 	@echo "... zadanie-4-1.s"
+	@echo "... zadanie-5-1.o"
+	@echo "... zadanie-5-1.i"
+	@echo "... zadanie-5-1.s"
+	@echo "... zadanie-5-2.o"
+	@echo "... zadanie-5-2.i"
+	@echo "... zadanie-5-2.s"
 .PHONY : help
 
 
