@@ -10,7 +10,6 @@ struct ulamek {
     int m;
 
 };
-
 int nwd(int a, int b) {
     int c;
     while (b != 0) {

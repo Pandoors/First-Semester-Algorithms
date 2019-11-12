@@ -111,6 +111,19 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named zadanie-5-5-1
+
+# Build rule for target.
+zadanie-5-5-1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-5-5-1
+.PHONY : zadanie-5-5-1
+
+# fast build rule for target.
+zadanie-5-5-1/fast:
+	$(MAKE) -f CMakeFiles/zadanie-5-5-1.dir/build.make CMakeFiles/zadanie-5-5-1.dir/build
+.PHONY : zadanie-5-5-1/fast
+
+#=============================================================================
 # Target rules for targets named zadanie-5-1
 
 # Build rule for target.
@@ -213,6 +226,32 @@ zadanie-2-9: cmake_check_build_system
 zadanie-2-9/fast:
 	$(MAKE) -f CMakeFiles/zadanie-2-9.dir/build.make CMakeFiles/zadanie-2-9.dir/build
 .PHONY : zadanie-2-9/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-5-5
+
+# Build rule for target.
+zadanie-5-5: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-5-5
+.PHONY : zadanie-5-5
+
+# fast build rule for target.
+zadanie-5-5/fast:
+	$(MAKE) -f CMakeFiles/zadanie-5-5.dir/build.make CMakeFiles/zadanie-5-5.dir/build
+.PHONY : zadanie-5-5/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-5-3
+
+# Build rule for target.
+zadanie-5-3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-5-3
+.PHONY : zadanie-5-3
+
+# fast build rule for target.
+zadanie-5-3/fast:
+	$(MAKE) -f CMakeFiles/zadanie-5-3.dir/build.make CMakeFiles/zadanie-5-3.dir/build
+.PHONY : zadanie-5-3/fast
 
 #=============================================================================
 # Target rules for targets named zadanie-2-7
@@ -330,6 +369,19 @@ zadanie-1-3: cmake_check_build_system
 zadanie-1-3/fast:
 	$(MAKE) -f CMakeFiles/zadanie-1-3.dir/build.make CMakeFiles/zadanie-1-3.dir/build
 .PHONY : zadanie-1-3/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-5-4
+
+# Build rule for target.
+zadanie-5-4: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-5-4
+.PHONY : zadanie-5-4
+
+# fast build rule for target.
+zadanie-5-4/fast:
+	$(MAKE) -f CMakeFiles/zadanie-5-4.dir/build.make CMakeFiles/zadanie-5-4.dir/build
+.PHONY : zadanie-5-4/fast
 
 #=============================================================================
 # Target rules for targets named zadanie-2-5
@@ -1070,6 +1122,114 @@ zadanie-5-2.cpp.s:
 	$(MAKE) -f CMakeFiles/zadanie-5-2.dir/build.make CMakeFiles/zadanie-5-2.dir/zadanie-5-2.cpp.s
 .PHONY : zadanie-5-2.cpp.s
 
+zadanie-5-3.o: zadanie-5-3.cpp.o
+
+.PHONY : zadanie-5-3.o
+
+# target to build an object file
+zadanie-5-3.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-5-3.dir/build.make CMakeFiles/zadanie-5-3.dir/zadanie-5-3.cpp.o
+.PHONY : zadanie-5-3.cpp.o
+
+zadanie-5-3.i: zadanie-5-3.cpp.i
+
+.PHONY : zadanie-5-3.i
+
+# target to preprocess a source file
+zadanie-5-3.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-5-3.dir/build.make CMakeFiles/zadanie-5-3.dir/zadanie-5-3.cpp.i
+.PHONY : zadanie-5-3.cpp.i
+
+zadanie-5-3.s: zadanie-5-3.cpp.s
+
+.PHONY : zadanie-5-3.s
+
+# target to generate assembly for a file
+zadanie-5-3.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-5-3.dir/build.make CMakeFiles/zadanie-5-3.dir/zadanie-5-3.cpp.s
+.PHONY : zadanie-5-3.cpp.s
+
+zadanie-5-4.o: zadanie-5-4.cpp.o
+
+.PHONY : zadanie-5-4.o
+
+# target to build an object file
+zadanie-5-4.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-5-4.dir/build.make CMakeFiles/zadanie-5-4.dir/zadanie-5-4.cpp.o
+.PHONY : zadanie-5-4.cpp.o
+
+zadanie-5-4.i: zadanie-5-4.cpp.i
+
+.PHONY : zadanie-5-4.i
+
+# target to preprocess a source file
+zadanie-5-4.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-5-4.dir/build.make CMakeFiles/zadanie-5-4.dir/zadanie-5-4.cpp.i
+.PHONY : zadanie-5-4.cpp.i
+
+zadanie-5-4.s: zadanie-5-4.cpp.s
+
+.PHONY : zadanie-5-4.s
+
+# target to generate assembly for a file
+zadanie-5-4.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-5-4.dir/build.make CMakeFiles/zadanie-5-4.dir/zadanie-5-4.cpp.s
+.PHONY : zadanie-5-4.cpp.s
+
+zadanie-5-5-1.o: zadanie-5-5-1.cpp.o
+
+.PHONY : zadanie-5-5-1.o
+
+# target to build an object file
+zadanie-5-5-1.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-5-5-1.dir/build.make CMakeFiles/zadanie-5-5-1.dir/zadanie-5-5-1.cpp.o
+.PHONY : zadanie-5-5-1.cpp.o
+
+zadanie-5-5-1.i: zadanie-5-5-1.cpp.i
+
+.PHONY : zadanie-5-5-1.i
+
+# target to preprocess a source file
+zadanie-5-5-1.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-5-5-1.dir/build.make CMakeFiles/zadanie-5-5-1.dir/zadanie-5-5-1.cpp.i
+.PHONY : zadanie-5-5-1.cpp.i
+
+zadanie-5-5-1.s: zadanie-5-5-1.cpp.s
+
+.PHONY : zadanie-5-5-1.s
+
+# target to generate assembly for a file
+zadanie-5-5-1.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-5-5-1.dir/build.make CMakeFiles/zadanie-5-5-1.dir/zadanie-5-5-1.cpp.s
+.PHONY : zadanie-5-5-1.cpp.s
+
+zadanie-5-5.o: zadanie-5-5.cpp.o
+
+.PHONY : zadanie-5-5.o
+
+# target to build an object file
+zadanie-5-5.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-5-5.dir/build.make CMakeFiles/zadanie-5-5.dir/zadanie-5-5.cpp.o
+.PHONY : zadanie-5-5.cpp.o
+
+zadanie-5-5.i: zadanie-5-5.cpp.i
+
+.PHONY : zadanie-5-5.i
+
+# target to preprocess a source file
+zadanie-5-5.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-5-5.dir/build.make CMakeFiles/zadanie-5-5.dir/zadanie-5-5.cpp.i
+.PHONY : zadanie-5-5.cpp.i
+
+zadanie-5-5.s: zadanie-5-5.cpp.s
+
+.PHONY : zadanie-5-5.s
+
+# target to generate assembly for a file
+zadanie-5-5.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-5-5.dir/build.make CMakeFiles/zadanie-5-5.dir/zadanie-5-5.cpp.s
+.PHONY : zadanie-5-5.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1077,6 +1237,7 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
+	@echo "... zadanie-5-5-1"
 	@echo "... zadanie-5-1"
 	@echo "... zadanie-3-6"
 	@echo "... zadanie-2-2"
@@ -1085,6 +1246,8 @@ help:
 	@echo "... zadanie-2-10"
 	@echo "... zadanie-4-1"
 	@echo "... zadanie-2-9"
+	@echo "... zadanie-5-5"
+	@echo "... zadanie-5-3"
 	@echo "... zadanie-2-7"
 	@echo "... zadanie-2-4"
 	@echo "... zadanie-2-1"
@@ -1094,6 +1257,7 @@ help:
 	@echo "... zadanie-1-6"
 	@echo "... zadanie-2-8"
 	@echo "... zadanie-1-3"
+	@echo "... zadanie-5-4"
 	@echo "... zadanie-2-5"
 	@echo "... zadanie-3-1"
 	@echo "... zadanie-5-2"
@@ -1174,6 +1338,18 @@ help:
 	@echo "... zadanie-5-2.o"
 	@echo "... zadanie-5-2.i"
 	@echo "... zadanie-5-2.s"
+	@echo "... zadanie-5-3.o"
+	@echo "... zadanie-5-3.i"
+	@echo "... zadanie-5-3.s"
+	@echo "... zadanie-5-4.o"
+	@echo "... zadanie-5-4.i"
+	@echo "... zadanie-5-4.s"
+	@echo "... zadanie-5-5-1.o"
+	@echo "... zadanie-5-5-1.i"
+	@echo "... zadanie-5-5-1.s"
+	@echo "... zadanie-5-5.o"
+	@echo "... zadanie-5-5.i"
+	@echo "... zadanie-5-5.s"
 .PHONY : help
 
 

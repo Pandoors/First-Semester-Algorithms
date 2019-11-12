@@ -53,6 +53,7 @@ CMAKE_BINARY_DIR = /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
+all: CMakeFiles/zadanie-5-5-1.dir/all
 all: CMakeFiles/zadanie-5-1.dir/all
 all: CMakeFiles/zadanie-3-6.dir/all
 all: CMakeFiles/zadanie-2-2.dir/all
@@ -61,6 +62,8 @@ all: CMakeFiles/zadanie-3-2.dir/all
 all: CMakeFiles/zadanie-2-10.dir/all
 all: CMakeFiles/zadanie-4-1.dir/all
 all: CMakeFiles/zadanie-2-9.dir/all
+all: CMakeFiles/zadanie-5-5.dir/all
+all: CMakeFiles/zadanie-5-3.dir/all
 all: CMakeFiles/zadanie-2-7.dir/all
 all: CMakeFiles/zadanie-2-4.dir/all
 all: CMakeFiles/zadanie-2-1.dir/all
@@ -70,6 +73,7 @@ all: CMakeFiles/zadanie-2-3.dir/all
 all: CMakeFiles/zadanie-1-6.dir/all
 all: CMakeFiles/zadanie-2-8.dir/all
 all: CMakeFiles/zadanie-1-3.dir/all
+all: CMakeFiles/zadanie-5-4.dir/all
 all: CMakeFiles/zadanie-2-5.dir/all
 all: CMakeFiles/zadanie-3-1.dir/all
 all: CMakeFiles/zadanie-5-2.dir/all
@@ -81,6 +85,7 @@ all: CMakeFiles/zadanie-1-1.dir/all
 .PHONY : all
 
 # The main recursive "clean" target.
+clean: CMakeFiles/zadanie-5-5-1.dir/clean
 clean: CMakeFiles/zadanie-5-1.dir/clean
 clean: CMakeFiles/zadanie-3-6.dir/clean
 clean: CMakeFiles/zadanie-2-2.dir/clean
@@ -89,6 +94,8 @@ clean: CMakeFiles/zadanie-3-2.dir/clean
 clean: CMakeFiles/zadanie-2-10.dir/clean
 clean: CMakeFiles/zadanie-4-1.dir/clean
 clean: CMakeFiles/zadanie-2-9.dir/clean
+clean: CMakeFiles/zadanie-5-5.dir/clean
+clean: CMakeFiles/zadanie-5-3.dir/clean
 clean: CMakeFiles/zadanie-2-7.dir/clean
 clean: CMakeFiles/zadanie-2-4.dir/clean
 clean: CMakeFiles/zadanie-2-1.dir/clean
@@ -98,6 +105,7 @@ clean: CMakeFiles/zadanie-2-3.dir/clean
 clean: CMakeFiles/zadanie-1-6.dir/clean
 clean: CMakeFiles/zadanie-2-8.dir/clean
 clean: CMakeFiles/zadanie-1-3.dir/clean
+clean: CMakeFiles/zadanie-5-4.dir/clean
 clean: CMakeFiles/zadanie-2-5.dir/clean
 clean: CMakeFiles/zadanie-3-1.dir/clean
 clean: CMakeFiles/zadanie-5-2.dir/clean
@@ -112,6 +120,33 @@ clean: CMakeFiles/zadanie-1-1.dir/clean
 preinstall:
 
 .PHONY : preinstall
+
+#=============================================================================
+# Target rules for target CMakeFiles/zadanie-5-5-1.dir
+
+# All Build rule for target.
+CMakeFiles/zadanie-5-5-1.dir/all:
+	$(MAKE) -f CMakeFiles/zadanie-5-5-1.dir/build.make CMakeFiles/zadanie-5-5-1.dir/depend
+	$(MAKE) -f CMakeFiles/zadanie-5-5-1.dir/build.make CMakeFiles/zadanie-5-5-1.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles --progress-num=55,56 "Built target zadanie-5-5-1"
+.PHONY : CMakeFiles/zadanie-5-5-1.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/zadanie-5-5-1.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/zadanie-5-5-1.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/zadanie-5-5-1.dir/rule
+
+# Convenience name for target.
+zadanie-5-5-1: CMakeFiles/zadanie-5-5-1.dir/rule
+
+.PHONY : zadanie-5-5-1
+
+# clean rule for target.
+CMakeFiles/zadanie-5-5-1.dir/clean:
+	$(MAKE) -f CMakeFiles/zadanie-5-5-1.dir/build.make CMakeFiles/zadanie-5-5-1.dir/clean
+.PHONY : CMakeFiles/zadanie-5-5-1.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/zadanie-5-1.dir
@@ -328,6 +363,60 @@ zadanie-2-9: CMakeFiles/zadanie-2-9.dir/rule
 CMakeFiles/zadanie-2-9.dir/clean:
 	$(MAKE) -f CMakeFiles/zadanie-2-9.dir/build.make CMakeFiles/zadanie-2-9.dir/clean
 .PHONY : CMakeFiles/zadanie-2-9.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/zadanie-5-5.dir
+
+# All Build rule for target.
+CMakeFiles/zadanie-5-5.dir/all:
+	$(MAKE) -f CMakeFiles/zadanie-5-5.dir/build.make CMakeFiles/zadanie-5-5.dir/depend
+	$(MAKE) -f CMakeFiles/zadanie-5-5.dir/build.make CMakeFiles/zadanie-5-5.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles --progress-num=53,54 "Built target zadanie-5-5"
+.PHONY : CMakeFiles/zadanie-5-5.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/zadanie-5-5.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/zadanie-5-5.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/zadanie-5-5.dir/rule
+
+# Convenience name for target.
+zadanie-5-5: CMakeFiles/zadanie-5-5.dir/rule
+
+.PHONY : zadanie-5-5
+
+# clean rule for target.
+CMakeFiles/zadanie-5-5.dir/clean:
+	$(MAKE) -f CMakeFiles/zadanie-5-5.dir/build.make CMakeFiles/zadanie-5-5.dir/clean
+.PHONY : CMakeFiles/zadanie-5-5.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/zadanie-5-3.dir
+
+# All Build rule for target.
+CMakeFiles/zadanie-5-3.dir/all:
+	$(MAKE) -f CMakeFiles/zadanie-5-3.dir/build.make CMakeFiles/zadanie-5-3.dir/depend
+	$(MAKE) -f CMakeFiles/zadanie-5-3.dir/build.make CMakeFiles/zadanie-5-3.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles --progress-num=49,50 "Built target zadanie-5-3"
+.PHONY : CMakeFiles/zadanie-5-3.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/zadanie-5-3.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/zadanie-5-3.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/zadanie-5-3.dir/rule
+
+# Convenience name for target.
+zadanie-5-3: CMakeFiles/zadanie-5-3.dir/rule
+
+.PHONY : zadanie-5-3
+
+# clean rule for target.
+CMakeFiles/zadanie-5-3.dir/clean:
+	$(MAKE) -f CMakeFiles/zadanie-5-3.dir/build.make CMakeFiles/zadanie-5-3.dir/clean
+.PHONY : CMakeFiles/zadanie-5-3.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/zadanie-2-7.dir
@@ -571,6 +660,33 @@ zadanie-1-3: CMakeFiles/zadanie-1-3.dir/rule
 CMakeFiles/zadanie-1-3.dir/clean:
 	$(MAKE) -f CMakeFiles/zadanie-1-3.dir/build.make CMakeFiles/zadanie-1-3.dir/clean
 .PHONY : CMakeFiles/zadanie-1-3.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/zadanie-5-4.dir
+
+# All Build rule for target.
+CMakeFiles/zadanie-5-4.dir/all:
+	$(MAKE) -f CMakeFiles/zadanie-5-4.dir/build.make CMakeFiles/zadanie-5-4.dir/depend
+	$(MAKE) -f CMakeFiles/zadanie-5-4.dir/build.make CMakeFiles/zadanie-5-4.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles --progress-num=51,52 "Built target zadanie-5-4"
+.PHONY : CMakeFiles/zadanie-5-4.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/zadanie-5-4.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles 2
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/zadanie-5-4.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/zadanie-5-4.dir/rule
+
+# Convenience name for target.
+zadanie-5-4: CMakeFiles/zadanie-5-4.dir/rule
+
+.PHONY : zadanie-5-4
+
+# clean rule for target.
+CMakeFiles/zadanie-5-4.dir/clean:
+	$(MAKE) -f CMakeFiles/zadanie-5-4.dir/build.make CMakeFiles/zadanie-5-4.dir/clean
+.PHONY : CMakeFiles/zadanie-5-4.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/zadanie-2-5.dir
