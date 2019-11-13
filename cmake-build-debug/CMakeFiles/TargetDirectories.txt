@@ -1,4 +1,6 @@
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/dawid-dziala.dir
+/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-5-5-2.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-5-5-1.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-5-1.dir
 /Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/CMakeFiles/zadanie-3-6.dir

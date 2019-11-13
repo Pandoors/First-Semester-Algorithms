@@ -47,7 +47,7 @@ int main() {
         }
         pole_1.k = hetman_sprawdzany.k;
         pole_1.w = hetman_sprawdzany.w;
-        while (pole_1.k < 100 && pole_1.w < 100 && pole_1.k>=0 && pole_1.w>=0) {
+        while (pole_1.k < 100 && pole_1.w < 100 && pole_1.k >= 0 && pole_1.w >= 0) {
             pole_1.k++;
             pole_1.w--;
             if (szachownica[pole_1.w][pole_1.k])
@@ -57,7 +57,7 @@ int main() {
 
         pole_1.k = hetman_sprawdzany.k;
         pole_1.w = hetman_sprawdzany.w;
-        while (pole_1.k < 100 && pole_1.w < 100  && pole_1.k>=0 && pole_1.w>=0) {
+        while (pole_1.k < 100 && pole_1.w < 100 && pole_1.k >= 0 && pole_1.w >= 0) {
             pole_1.k++;
             pole_1.w++;
             if (szachownica[pole_1.w][pole_1.k])
@@ -67,7 +67,7 @@ int main() {
 
         pole_1.k = hetman_sprawdzany.k;
         pole_1.w = hetman_sprawdzany.w;
-        while (pole_1.k < 100 && pole_1.w < 100  && pole_1.k>=0 && pole_1.w>=0) {
+        while (pole_1.k < 100 && pole_1.w < 100 && pole_1.k >= 0 && pole_1.w >= 0) {
             pole_1.k--;
             pole_1.w++;
             if (szachownica[pole_1.w][pole_1.k])
@@ -77,7 +77,7 @@ int main() {
 
         pole_1.k = hetman_sprawdzany.k;
         pole_1.w = hetman_sprawdzany.w;
-        while (pole_1.k < 100 && pole_1.w < 100  && pole_1.k>=0 && pole_1.w>=0) {
+        while (pole_1.k < 100 && pole_1.w < 100 && pole_1.k >= 0 && pole_1.w >= 0) {
             pole_1.k--;
             pole_1.w--;
             if (szachownica[pole_1.w][pole_1.k])

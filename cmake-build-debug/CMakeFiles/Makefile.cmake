@@ -52,6 +52,8 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
+  "CMakeFiles/dawid-dziala.dir/DependInfo.cmake"
+  "CMakeFiles/zadanie-5-5-2.dir/DependInfo.cmake"
   "CMakeFiles/zadanie-5-5-1.dir/DependInfo.cmake"
   "CMakeFiles/zadanie-5-1.dir/DependInfo.cmake"
   "CMakeFiles/zadanie-3-6.dir/DependInfo.cmake"

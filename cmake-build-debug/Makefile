@@ -111,6 +111,32 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named dawid-dziala
+
+# Build rule for target.
+dawid-dziala: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 dawid-dziala
+.PHONY : dawid-dziala
+
+# fast build rule for target.
+dawid-dziala/fast:
+	$(MAKE) -f CMakeFiles/dawid-dziala.dir/build.make CMakeFiles/dawid-dziala.dir/build
+.PHONY : dawid-dziala/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-5-5-2
+
+# Build rule for target.
+zadanie-5-5-2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-5-5-2
+.PHONY : zadanie-5-5-2
+
+# fast build rule for target.
+zadanie-5-5-2/fast:
+	$(MAKE) -f CMakeFiles/zadanie-5-5-2.dir/build.make CMakeFiles/zadanie-5-5-2.dir/build
+.PHONY : zadanie-5-5-2/fast
+
+#=============================================================================
 # Target rules for targets named zadanie-5-5-1
 
 # Build rule for target.
@@ -473,6 +499,33 @@ zadanie-1-1: cmake_check_build_system
 zadanie-1-1/fast:
 	$(MAKE) -f CMakeFiles/zadanie-1-1.dir/build.make CMakeFiles/zadanie-1-1.dir/build
 .PHONY : zadanie-1-1/fast
+
+dawid-dziala.o: dawid-dziala.cpp.o
+
+.PHONY : dawid-dziala.o
+
+# target to build an object file
+dawid-dziala.cpp.o:
+	$(MAKE) -f CMakeFiles/dawid-dziala.dir/build.make CMakeFiles/dawid-dziala.dir/dawid-dziala.cpp.o
+.PHONY : dawid-dziala.cpp.o
+
+dawid-dziala.i: dawid-dziala.cpp.i
+
+.PHONY : dawid-dziala.i
+
+# target to preprocess a source file
+dawid-dziala.cpp.i:
+	$(MAKE) -f CMakeFiles/dawid-dziala.dir/build.make CMakeFiles/dawid-dziala.dir/dawid-dziala.cpp.i
+.PHONY : dawid-dziala.cpp.i
+
+dawid-dziala.s: dawid-dziala.cpp.s
+
+.PHONY : dawid-dziala.s
+
+# target to generate assembly for a file
+dawid-dziala.cpp.s:
+	$(MAKE) -f CMakeFiles/dawid-dziala.dir/build.make CMakeFiles/dawid-dziala.dir/dawid-dziala.cpp.s
+.PHONY : dawid-dziala.cpp.s
 
 zadanie-1-1.o: zadanie-1-1.cpp.o
 
@@ -1203,6 +1256,33 @@ zadanie-5-5-1.cpp.s:
 	$(MAKE) -f CMakeFiles/zadanie-5-5-1.dir/build.make CMakeFiles/zadanie-5-5-1.dir/zadanie-5-5-1.cpp.s
 .PHONY : zadanie-5-5-1.cpp.s
 
+zadanie-5-5-2.o: zadanie-5-5-2.cpp.o
+
+.PHONY : zadanie-5-5-2.o
+
+# target to build an object file
+zadanie-5-5-2.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-5-5-2.dir/build.make CMakeFiles/zadanie-5-5-2.dir/zadanie-5-5-2.cpp.o
+.PHONY : zadanie-5-5-2.cpp.o
+
+zadanie-5-5-2.i: zadanie-5-5-2.cpp.i
+
+.PHONY : zadanie-5-5-2.i
+
+# target to preprocess a source file
+zadanie-5-5-2.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-5-5-2.dir/build.make CMakeFiles/zadanie-5-5-2.dir/zadanie-5-5-2.cpp.i
+.PHONY : zadanie-5-5-2.cpp.i
+
+zadanie-5-5-2.s: zadanie-5-5-2.cpp.s
+
+.PHONY : zadanie-5-5-2.s
+
+# target to generate assembly for a file
+zadanie-5-5-2.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-5-5-2.dir/build.make CMakeFiles/zadanie-5-5-2.dir/zadanie-5-5-2.cpp.s
+.PHONY : zadanie-5-5-2.cpp.s
+
 zadanie-5-5.o: zadanie-5-5.cpp.o
 
 .PHONY : zadanie-5-5.o
@@ -1237,6 +1317,8 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
+	@echo "... dawid-dziala"
+	@echo "... zadanie-5-5-2"
 	@echo "... zadanie-5-5-1"
 	@echo "... zadanie-5-1"
 	@echo "... zadanie-3-6"
@@ -1266,6 +1348,9 @@ help:
 	@echo "... zadanie-1-2"
 	@echo "... edit_cache"
 	@echo "... zadanie-1-1"
+	@echo "... dawid-dziala.o"
+	@echo "... dawid-dziala.i"
+	@echo "... dawid-dziala.s"
 	@echo "... zadanie-1-1.o"
 	@echo "... zadanie-1-1.i"
 	@echo "... zadanie-1-1.s"
@@ -1347,6 +1432,9 @@ help:
 	@echo "... zadanie-5-5-1.o"
 	@echo "... zadanie-5-5-1.i"
 	@echo "... zadanie-5-5-1.s"
+	@echo "... zadanie-5-5-2.o"
+	@echo "... zadanie-5-5-2.i"
+	@echo "... zadanie-5-5-2.s"
 	@echo "... zadanie-5-5.o"
 	@echo "... zadanie-5-5.i"
 	@echo "... zadanie-5-5.s"
