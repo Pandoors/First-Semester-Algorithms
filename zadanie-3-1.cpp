@@ -1,5 +1,5 @@
 //
-// Created by Kasia Ręka on 22.10.2019.
+// Created by Bartosz Kruczek on 22.10.2019.
 //
 
 #include <iostream>
