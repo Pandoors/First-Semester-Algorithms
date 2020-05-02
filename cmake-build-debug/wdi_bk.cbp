@@ -17,11 +17,161 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="rebuild_cache">
+			<Target title="kp_4.cpp">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/kp_4.cpp" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option type="4"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 kp_4.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kp_4.cpp/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/kp_4.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 kp_4.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kp_3.cpp">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/kp_3.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 kp_3.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kp_3.cpp/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/kp_3.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 kp_3.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kp1.cpp">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/kp1.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 kp1.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kp1.cpp/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/kp1.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 kp1.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-1-3">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-1-3/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-3/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -67,8 +217,8 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="zadanie-5-5-2">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-5-5-2" prefix_auto="0" extension_auto="0"/>
+			<Target title="zadanie-9-4.cpp">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-4.cpp" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -81,14 +231,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-5-5-2"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-4.cpp"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="zadanie-5-5-2/fast">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-5-5-2" prefix_auto="0" extension_auto="0"/>
+			<Target title="zadanie-9-4.cpp/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-4.cpp" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -101,14 +251,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-5-5-2/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-4.cpp/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="zadanie-5-5-1">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-5-5-1" prefix_auto="0" extension_auto="0"/>
+			<Target title="zadanie-9-1.2.cpp">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-1.2.cpp" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -121,14 +271,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-5-5-1"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-1.2.cpp"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="zadanie-5-5-1/fast">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-5-5-1" prefix_auto="0" extension_auto="0"/>
+			<Target title="zadanie-9-1.2.cpp/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-1.2.cpp" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -141,7 +291,327 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-5-5-1/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-1.2.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-9-1.1.cpp">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-1.1.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-1.1.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-9-1.1.cpp/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-1.1.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-1.1.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-1-6">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-6"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-1-6/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-6/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kolos1.cpp">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/kolos1.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 kolos1.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kolos1.cpp/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/kolos1.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 kolos1.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-9-3.cpp">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-3.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-3.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-9-3.cpp/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-3.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-3.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-9-1.3.cpp">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-1.3.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-1.3.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-9-1.3.cpp/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-1.3.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-1.3.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-9-2.cpp">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-2.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-2.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-9-2.cpp/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-2.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-2.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-1-2">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-1-2/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-1-5">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-5"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-1-5/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-5/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -187,6 +657,526 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="zadanie-9-1.cpp">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-1.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-1.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-9-1.cpp/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-1.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-1.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-7-1">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-7-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-7-1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-7-1/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-7-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-7-1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-9-5.cpp">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-5.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-5.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-9-5.cpp/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-9-5.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-9-5.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-7-3">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-7-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-7-3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-7-3/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-7-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-7-3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-4-1.2">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-4-1.2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-4-1.2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-4-1.2/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-4-1.2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-4-1.2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-7-2">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-7-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-7-2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-7-2/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-7-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-7-2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-6-4">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-6-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-6-4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-6-4/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-6-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-6-4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-6-2">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-6-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-6-2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-6-2/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-6-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-6-2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-2-6">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-6"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-2-6/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-6" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-6/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-6-1">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-6-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-6-1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-6-1/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-6-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-6-1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-5-5-1">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-5-5-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-5-5-1"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-5-5-1/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-5-5-1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-5-5-1/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-1-4">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-4"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-1-4/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-4/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-5-2">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-5-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-5-2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-5-2/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-5-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-5-2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="zadanie-3-6">
 				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-3-6" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
@@ -227,81 +1217,11 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="zadanie-2-2">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-2" prefix_auto="0" extension_auto="0"/>
+			<Target title="rebuild_cache">
 				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
+				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-2"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-2-2/fast">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-2/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-3-3">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-3-3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-3-3"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-3-3/fast">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-3-3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-3-3/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -467,8 +1387,8 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="zadanie-5-5">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-5-5" prefix_auto="0" extension_auto="0"/>
+			<Target title="zadanie-2-7">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-7" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -481,14 +1401,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-5-5"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-7"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="zadanie-5-5/fast">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-5-5" prefix_auto="0" extension_auto="0"/>
+			<Target title="zadanie-2-7/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-7" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -501,7 +1421,47 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-5-5/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-7/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kp2.cpp">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/kp2.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 kp2.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kp2.cpp/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/kp2.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 kp2.cpp/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -547,8 +1507,8 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="zadanie-2-7">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-7" prefix_auto="0" extension_auto="0"/>
+			<Target title="zadanie-2-3">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-3" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -561,14 +1521,14 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-7"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-3"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="zadanie-2-7/fast">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-7" prefix_auto="0" extension_auto="0"/>
+			<Target title="zadanie-2-3/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-3" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
@@ -581,7 +1541,177 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-7/fast"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kp4.cpp">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/kp4.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 kp4.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kp4.cpp/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/kp4.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 kp4.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kp3.cpp">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/kp3.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 kp3.cpp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="kp3.cpp/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/kp3.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 kp3.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-2-2">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-2"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-2-2/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-2/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-6-3">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-6-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-6-3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="zadanie-6-3/fast">
+				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-6-3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-6-3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -667,166 +1797,6 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="zadanie-4-1.2">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-4-1.2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-4-1.2"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-4-1.2/fast">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-4-1.2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-4-1.2/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-2-6">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-6" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-6"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-2-6/fast">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-6" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-6/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-2-3">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-3"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-2-3/fast">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-3/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-1-6">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-6" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-6"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-1-6/fast">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-6" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-6/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="zadanie-2-8">
 				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-2-8" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
@@ -862,46 +1832,6 @@
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-2-8/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-1-3">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-3"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-1-3/fast">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-3/fast"/>
 					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -1027,176 +1957,6 @@
 					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="zadanie-5-2">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-5-2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-5-2"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-5-2/fast">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-5-2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-5-2/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-1-4">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-4" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-4"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-1-4/fast">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-4" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-4/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-1-5">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-5" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-5"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-1-5/fast">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-5" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-5/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-1-2">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-2"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="zadanie-1-2/fast">
-				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-2" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 zadanie-1-2/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="zadanie-1-1">
 				<Option output="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug/zadanie-1-1" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/Users/bartosz/CLionProjects/First-Semester-Algorithms/cmake-build-debug"/>
@@ -1240,6 +2000,27 @@
 		</Build>
 		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/dawid-dziala.cpp">
 			<Option target="dawid-dziala"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/kolos1.cpp">
+			<Option target="kolos1.cpp"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/kp1.cpp">
+			<Option target="kp1.cpp"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/kp2.cpp">
+			<Option target="kp2.cpp"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/kp3.cpp">
+			<Option target="kp3.cpp"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/kp4.cpp">
+			<Option target="kp4.cpp"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/kp_3.cpp">
+			<Option target="kp_3.cpp"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/kp_4.cpp">
+			<Option target="kp_4.cpp"/>
 		</Unit>
 		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-1-1.cpp">
 			<Option target="zadanie-1-1"/>
@@ -1295,9 +2076,6 @@
 		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-3-2.cpp">
 			<Option target="zadanie-3-2"/>
 		</Unit>
-		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-3-3.cpp">
-			<Option target="zadanie-3-3"/>
-		</Unit>
 		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-3-6.cpp">
 			<Option target="zadanie-3-6"/>
 		</Unit>
@@ -1322,11 +2100,50 @@
 		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-5-5-1.cpp">
 			<Option target="zadanie-5-5-1"/>
 		</Unit>
-		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-5-5-2.cpp">
-			<Option target="zadanie-5-5-2"/>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-6-1.cpp">
+			<Option target="zadanie-6-1"/>
 		</Unit>
-		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-5-5.cpp">
-			<Option target="zadanie-5-5"/>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-6-2.cpp">
+			<Option target="zadanie-6-2"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-6-3.cpp">
+			<Option target="zadanie-6-3"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-6-4.cpp">
+			<Option target="zadanie-6-4"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-7-1.cpp">
+			<Option target="zadanie-7-1"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-7-2.cpp">
+			<Option target="zadanie-7-2"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-7-3.cpp">
+			<Option target="zadanie-7-3"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-9-1.1.cpp">
+			<Option target="zadanie-9-1.1.cpp"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-9-1.2.cpp">
+			<Option target="zadanie-9-1.2.cpp"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-9-1.3.cpp">
+			<Option target="zadanie-9-1.3.cpp"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-9-1.cpp">
+			<Option target="zadanie-9-1.cpp"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-9-2.cpp">
+			<Option target="zadanie-9-2.cpp"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-9-3.cpp">
+			<Option target="zadanie-9-3.cpp"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-9-4.cpp">
+			<Option target="zadanie-9-4.cpp"/>
+		</Unit>
+		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/zadanie-9-5.cpp">
+			<Option target="zadanie-9-5.cpp"/>
 		</Unit>
 		<Unit filename="/Users/bartosz/CLionProjects/First-Semester-Algorithms/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

@@ -10,6 +10,7 @@ struct ulamek {
     int m;
 
 };
+
 int nwd(int a, int b) {
     int c;
     while (b != 0) {
@@ -85,41 +86,43 @@ ulamek mnozenie(ulamek u1, ulamek u2) {
 }
 
 ulamek dzielenie(ulamek u1, ulamek u2) {
-if(u2.l == 0){
-    cout<<"nie można przez 0, podaj inna liczbe ";
-    while(u2.l==0){
-        cin>>u2.l;
+    if (u2.l == 0) {
+        cout << "nie można przez 0, podaj inna liczbe ";
+        while (u2.l == 0) {
+            cin >> u2.l;
+        }
     }
-}
     ulamek wynik;
     wynik.l = u1.l * u2.m;
     wynik.m = u1.m * u2.l;
 
-    if(wynik.m<0){
-        wynik.l*=-1;
-        wynik.m*=-1;
+    if (wynik.m < 0) {
+        wynik.l *= -1;
+        wynik.m *= -1;
     }
 
     return skracanie(wynik);
 
 }
-ulamek potegowanie(ulamek u1,int a){
 
-ulamek wynik;
-wynik.l=1;
-wynik.m=1;
-for(int i=0;i<a;i++){
-    wynik.l*=u1.l;
-    wynik.m*=u1.m;
+ulamek potegowanie(ulamek u1, int a) {
+
+    ulamek wynik;
+    wynik.l = 1;
+    wynik.m = 1;
+    for (int i = 0; i < a; i++) {
+        wynik.l *= u1.l;
+        wynik.m *= u1.m;
+    }
+
+    return wynik;
 }
 
-return wynik;
-}
 int main() {
     ulamek ulamek1, ulamek2;
-int wykladnik;
+    int wykladnik;
     ulamek1 = wczytaj_ulamek();
     ulamek2 = wczytaj_ulamek();
-    cin>>wykladnik;
+    cin >> wykladnik;
 
 }

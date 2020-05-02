@@ -37,6 +37,18 @@ ulamek skracanie(ulamek u) {
 
 }
 
+void rozklad(int a) {
+
+    while (a != 1) {
+
+
+
+    }
+
+
+}
+
+
 ulamek odejmowanie(ulamek u1, ulamek u2) {
     ulamek wynik;
     int mianownik_wyniku = nww(u1.m, u2.m);
@@ -44,6 +56,7 @@ ulamek odejmowanie(ulamek u1, ulamek u2) {
     u2.m *= mianownik_wyniku / u2.m;
     wynik.l = u1.l - u2.l;
     wynik.m = mianownik_wyniku;
+
     return skracanie(wynik);
 }
 
@@ -124,5 +137,5 @@ int ciagi(ulamek t[100]) {
 
 int main() {
     ulamek t[100];
-    cout << ciagi(t);
+    // cout << ciagi(t);
 }

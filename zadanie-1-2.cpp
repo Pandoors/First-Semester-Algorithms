@@ -7,7 +7,10 @@ using namespace std;
 
 int main() {
 
-    int n = 2019;
+    int n;
+    cout<<"podaj szukaną liczbę";
+    cin>>n;
+
 
     int minS = n, minU = 0, minD = 0, u, d, t;
 

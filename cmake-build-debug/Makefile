@@ -111,6 +111,58 @@ depend:
 .PHONY : depend
 
 #=============================================================================
+# Target rules for targets named kp_4.cpp
+
+# Build rule for target.
+kp_4.cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 kp_4.cpp
+.PHONY : kp_4.cpp
+
+# fast build rule for target.
+kp_4.cpp/fast:
+	$(MAKE) -f CMakeFiles/kp_4.cpp.dir/build.make CMakeFiles/kp_4.cpp.dir/build
+.PHONY : kp_4.cpp/fast
+
+#=============================================================================
+# Target rules for targets named kp_3.cpp
+
+# Build rule for target.
+kp_3.cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 kp_3.cpp
+.PHONY : kp_3.cpp
+
+# fast build rule for target.
+kp_3.cpp/fast:
+	$(MAKE) -f CMakeFiles/kp_3.cpp.dir/build.make CMakeFiles/kp_3.cpp.dir/build
+.PHONY : kp_3.cpp/fast
+
+#=============================================================================
+# Target rules for targets named kp1.cpp
+
+# Build rule for target.
+kp1.cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 kp1.cpp
+.PHONY : kp1.cpp
+
+# fast build rule for target.
+kp1.cpp/fast:
+	$(MAKE) -f CMakeFiles/kp1.cpp.dir/build.make CMakeFiles/kp1.cpp.dir/build
+.PHONY : kp1.cpp/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-1-3
+
+# Build rule for target.
+zadanie-1-3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-1-3
+.PHONY : zadanie-1-3
+
+# fast build rule for target.
+zadanie-1-3/fast:
+	$(MAKE) -f CMakeFiles/zadanie-1-3.dir/build.make CMakeFiles/zadanie-1-3.dir/build
+.PHONY : zadanie-1-3/fast
+
+#=============================================================================
 # Target rules for targets named dawid-dziala
 
 # Build rule for target.
@@ -124,30 +176,134 @@ dawid-dziala/fast:
 .PHONY : dawid-dziala/fast
 
 #=============================================================================
-# Target rules for targets named zadanie-5-5-2
+# Target rules for targets named zadanie-9-4.cpp
 
 # Build rule for target.
-zadanie-5-5-2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-5-5-2
-.PHONY : zadanie-5-5-2
+zadanie-9-4.cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-9-4.cpp
+.PHONY : zadanie-9-4.cpp
 
 # fast build rule for target.
-zadanie-5-5-2/fast:
-	$(MAKE) -f CMakeFiles/zadanie-5-5-2.dir/build.make CMakeFiles/zadanie-5-5-2.dir/build
-.PHONY : zadanie-5-5-2/fast
+zadanie-9-4.cpp/fast:
+	$(MAKE) -f CMakeFiles/zadanie-9-4.cpp.dir/build.make CMakeFiles/zadanie-9-4.cpp.dir/build
+.PHONY : zadanie-9-4.cpp/fast
 
 #=============================================================================
-# Target rules for targets named zadanie-5-5-1
+# Target rules for targets named zadanie-9-1.2.cpp
 
 # Build rule for target.
-zadanie-5-5-1: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-5-5-1
-.PHONY : zadanie-5-5-1
+zadanie-9-1.2.cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-9-1.2.cpp
+.PHONY : zadanie-9-1.2.cpp
 
 # fast build rule for target.
-zadanie-5-5-1/fast:
-	$(MAKE) -f CMakeFiles/zadanie-5-5-1.dir/build.make CMakeFiles/zadanie-5-5-1.dir/build
-.PHONY : zadanie-5-5-1/fast
+zadanie-9-1.2.cpp/fast:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.2.cpp.dir/build.make CMakeFiles/zadanie-9-1.2.cpp.dir/build
+.PHONY : zadanie-9-1.2.cpp/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-9-1.1.cpp
+
+# Build rule for target.
+zadanie-9-1.1.cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-9-1.1.cpp
+.PHONY : zadanie-9-1.1.cpp
+
+# fast build rule for target.
+zadanie-9-1.1.cpp/fast:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.1.cpp.dir/build.make CMakeFiles/zadanie-9-1.1.cpp.dir/build
+.PHONY : zadanie-9-1.1.cpp/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-1-6
+
+# Build rule for target.
+zadanie-1-6: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-1-6
+.PHONY : zadanie-1-6
+
+# fast build rule for target.
+zadanie-1-6/fast:
+	$(MAKE) -f CMakeFiles/zadanie-1-6.dir/build.make CMakeFiles/zadanie-1-6.dir/build
+.PHONY : zadanie-1-6/fast
+
+#=============================================================================
+# Target rules for targets named kolos1.cpp
+
+# Build rule for target.
+kolos1.cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 kolos1.cpp
+.PHONY : kolos1.cpp
+
+# fast build rule for target.
+kolos1.cpp/fast:
+	$(MAKE) -f CMakeFiles/kolos1.cpp.dir/build.make CMakeFiles/kolos1.cpp.dir/build
+.PHONY : kolos1.cpp/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-9-3.cpp
+
+# Build rule for target.
+zadanie-9-3.cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-9-3.cpp
+.PHONY : zadanie-9-3.cpp
+
+# fast build rule for target.
+zadanie-9-3.cpp/fast:
+	$(MAKE) -f CMakeFiles/zadanie-9-3.cpp.dir/build.make CMakeFiles/zadanie-9-3.cpp.dir/build
+.PHONY : zadanie-9-3.cpp/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-9-1.3.cpp
+
+# Build rule for target.
+zadanie-9-1.3.cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-9-1.3.cpp
+.PHONY : zadanie-9-1.3.cpp
+
+# fast build rule for target.
+zadanie-9-1.3.cpp/fast:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.3.cpp.dir/build.make CMakeFiles/zadanie-9-1.3.cpp.dir/build
+.PHONY : zadanie-9-1.3.cpp/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-9-2.cpp
+
+# Build rule for target.
+zadanie-9-2.cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-9-2.cpp
+.PHONY : zadanie-9-2.cpp
+
+# fast build rule for target.
+zadanie-9-2.cpp/fast:
+	$(MAKE) -f CMakeFiles/zadanie-9-2.cpp.dir/build.make CMakeFiles/zadanie-9-2.cpp.dir/build
+.PHONY : zadanie-9-2.cpp/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-1-2
+
+# Build rule for target.
+zadanie-1-2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-1-2
+.PHONY : zadanie-1-2
+
+# fast build rule for target.
+zadanie-1-2/fast:
+	$(MAKE) -f CMakeFiles/zadanie-1-2.dir/build.make CMakeFiles/zadanie-1-2.dir/build
+.PHONY : zadanie-1-2/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-1-5
+
+# Build rule for target.
+zadanie-1-5: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-1-5
+.PHONY : zadanie-1-5
+
+# fast build rule for target.
+zadanie-1-5/fast:
+	$(MAKE) -f CMakeFiles/zadanie-1-5.dir/build.make CMakeFiles/zadanie-1-5.dir/build
+.PHONY : zadanie-1-5/fast
 
 #=============================================================================
 # Target rules for targets named zadanie-5-1
@@ -163,6 +319,175 @@ zadanie-5-1/fast:
 .PHONY : zadanie-5-1/fast
 
 #=============================================================================
+# Target rules for targets named zadanie-9-1.cpp
+
+# Build rule for target.
+zadanie-9-1.cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-9-1.cpp
+.PHONY : zadanie-9-1.cpp
+
+# fast build rule for target.
+zadanie-9-1.cpp/fast:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.cpp.dir/build.make CMakeFiles/zadanie-9-1.cpp.dir/build
+.PHONY : zadanie-9-1.cpp/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-7-1
+
+# Build rule for target.
+zadanie-7-1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-7-1
+.PHONY : zadanie-7-1
+
+# fast build rule for target.
+zadanie-7-1/fast:
+	$(MAKE) -f CMakeFiles/zadanie-7-1.dir/build.make CMakeFiles/zadanie-7-1.dir/build
+.PHONY : zadanie-7-1/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-9-5.cpp
+
+# Build rule for target.
+zadanie-9-5.cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-9-5.cpp
+.PHONY : zadanie-9-5.cpp
+
+# fast build rule for target.
+zadanie-9-5.cpp/fast:
+	$(MAKE) -f CMakeFiles/zadanie-9-5.cpp.dir/build.make CMakeFiles/zadanie-9-5.cpp.dir/build
+.PHONY : zadanie-9-5.cpp/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-7-3
+
+# Build rule for target.
+zadanie-7-3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-7-3
+.PHONY : zadanie-7-3
+
+# fast build rule for target.
+zadanie-7-3/fast:
+	$(MAKE) -f CMakeFiles/zadanie-7-3.dir/build.make CMakeFiles/zadanie-7-3.dir/build
+.PHONY : zadanie-7-3/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-4-1.2
+
+# Build rule for target.
+zadanie-4-1.2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-4-1.2
+.PHONY : zadanie-4-1.2
+
+# fast build rule for target.
+zadanie-4-1.2/fast:
+	$(MAKE) -f CMakeFiles/zadanie-4-1.2.dir/build.make CMakeFiles/zadanie-4-1.2.dir/build
+.PHONY : zadanie-4-1.2/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-7-2
+
+# Build rule for target.
+zadanie-7-2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-7-2
+.PHONY : zadanie-7-2
+
+# fast build rule for target.
+zadanie-7-2/fast:
+	$(MAKE) -f CMakeFiles/zadanie-7-2.dir/build.make CMakeFiles/zadanie-7-2.dir/build
+.PHONY : zadanie-7-2/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-6-4
+
+# Build rule for target.
+zadanie-6-4: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-6-4
+.PHONY : zadanie-6-4
+
+# fast build rule for target.
+zadanie-6-4/fast:
+	$(MAKE) -f CMakeFiles/zadanie-6-4.dir/build.make CMakeFiles/zadanie-6-4.dir/build
+.PHONY : zadanie-6-4/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-6-2
+
+# Build rule for target.
+zadanie-6-2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-6-2
+.PHONY : zadanie-6-2
+
+# fast build rule for target.
+zadanie-6-2/fast:
+	$(MAKE) -f CMakeFiles/zadanie-6-2.dir/build.make CMakeFiles/zadanie-6-2.dir/build
+.PHONY : zadanie-6-2/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-2-6
+
+# Build rule for target.
+zadanie-2-6: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-2-6
+.PHONY : zadanie-2-6
+
+# fast build rule for target.
+zadanie-2-6/fast:
+	$(MAKE) -f CMakeFiles/zadanie-2-6.dir/build.make CMakeFiles/zadanie-2-6.dir/build
+.PHONY : zadanie-2-6/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-6-1
+
+# Build rule for target.
+zadanie-6-1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-6-1
+.PHONY : zadanie-6-1
+
+# fast build rule for target.
+zadanie-6-1/fast:
+	$(MAKE) -f CMakeFiles/zadanie-6-1.dir/build.make CMakeFiles/zadanie-6-1.dir/build
+.PHONY : zadanie-6-1/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-5-5-1
+
+# Build rule for target.
+zadanie-5-5-1: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-5-5-1
+.PHONY : zadanie-5-5-1
+
+# fast build rule for target.
+zadanie-5-5-1/fast:
+	$(MAKE) -f CMakeFiles/zadanie-5-5-1.dir/build.make CMakeFiles/zadanie-5-5-1.dir/build
+.PHONY : zadanie-5-5-1/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-1-4
+
+# Build rule for target.
+zadanie-1-4: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-1-4
+.PHONY : zadanie-1-4
+
+# fast build rule for target.
+zadanie-1-4/fast:
+	$(MAKE) -f CMakeFiles/zadanie-1-4.dir/build.make CMakeFiles/zadanie-1-4.dir/build
+.PHONY : zadanie-1-4/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-5-2
+
+# Build rule for target.
+zadanie-5-2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-5-2
+.PHONY : zadanie-5-2
+
+# fast build rule for target.
+zadanie-5-2/fast:
+	$(MAKE) -f CMakeFiles/zadanie-5-2.dir/build.make CMakeFiles/zadanie-5-2.dir/build
+.PHONY : zadanie-5-2/fast
+
+#=============================================================================
 # Target rules for targets named zadanie-3-6
 
 # Build rule for target.
@@ -174,32 +499,6 @@ zadanie-3-6: cmake_check_build_system
 zadanie-3-6/fast:
 	$(MAKE) -f CMakeFiles/zadanie-3-6.dir/build.make CMakeFiles/zadanie-3-6.dir/build
 .PHONY : zadanie-3-6/fast
-
-#=============================================================================
-# Target rules for targets named zadanie-2-2
-
-# Build rule for target.
-zadanie-2-2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-2-2
-.PHONY : zadanie-2-2
-
-# fast build rule for target.
-zadanie-2-2/fast:
-	$(MAKE) -f CMakeFiles/zadanie-2-2.dir/build.make CMakeFiles/zadanie-2-2.dir/build
-.PHONY : zadanie-2-2/fast
-
-#=============================================================================
-# Target rules for targets named zadanie-3-3
-
-# Build rule for target.
-zadanie-3-3: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-3-3
-.PHONY : zadanie-3-3
-
-# fast build rule for target.
-zadanie-3-3/fast:
-	$(MAKE) -f CMakeFiles/zadanie-3-3.dir/build.make CMakeFiles/zadanie-3-3.dir/build
-.PHONY : zadanie-3-3/fast
 
 #=============================================================================
 # Target rules for targets named zadanie-3-2
@@ -254,17 +553,30 @@ zadanie-2-9/fast:
 .PHONY : zadanie-2-9/fast
 
 #=============================================================================
-# Target rules for targets named zadanie-5-5
+# Target rules for targets named zadanie-2-7
 
 # Build rule for target.
-zadanie-5-5: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-5-5
-.PHONY : zadanie-5-5
+zadanie-2-7: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-2-7
+.PHONY : zadanie-2-7
 
 # fast build rule for target.
-zadanie-5-5/fast:
-	$(MAKE) -f CMakeFiles/zadanie-5-5.dir/build.make CMakeFiles/zadanie-5-5.dir/build
-.PHONY : zadanie-5-5/fast
+zadanie-2-7/fast:
+	$(MAKE) -f CMakeFiles/zadanie-2-7.dir/build.make CMakeFiles/zadanie-2-7.dir/build
+.PHONY : zadanie-2-7/fast
+
+#=============================================================================
+# Target rules for targets named kp2.cpp
+
+# Build rule for target.
+kp2.cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 kp2.cpp
+.PHONY : kp2.cpp
+
+# fast build rule for target.
+kp2.cpp/fast:
+	$(MAKE) -f CMakeFiles/kp2.cpp.dir/build.make CMakeFiles/kp2.cpp.dir/build
+.PHONY : kp2.cpp/fast
 
 #=============================================================================
 # Target rules for targets named zadanie-5-3
@@ -280,17 +592,69 @@ zadanie-5-3/fast:
 .PHONY : zadanie-5-3/fast
 
 #=============================================================================
-# Target rules for targets named zadanie-2-7
+# Target rules for targets named zadanie-2-3
 
 # Build rule for target.
-zadanie-2-7: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-2-7
-.PHONY : zadanie-2-7
+zadanie-2-3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-2-3
+.PHONY : zadanie-2-3
 
 # fast build rule for target.
-zadanie-2-7/fast:
-	$(MAKE) -f CMakeFiles/zadanie-2-7.dir/build.make CMakeFiles/zadanie-2-7.dir/build
-.PHONY : zadanie-2-7/fast
+zadanie-2-3/fast:
+	$(MAKE) -f CMakeFiles/zadanie-2-3.dir/build.make CMakeFiles/zadanie-2-3.dir/build
+.PHONY : zadanie-2-3/fast
+
+#=============================================================================
+# Target rules for targets named kp4.cpp
+
+# Build rule for target.
+kp4.cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 kp4.cpp
+.PHONY : kp4.cpp
+
+# fast build rule for target.
+kp4.cpp/fast:
+	$(MAKE) -f CMakeFiles/kp4.cpp.dir/build.make CMakeFiles/kp4.cpp.dir/build
+.PHONY : kp4.cpp/fast
+
+#=============================================================================
+# Target rules for targets named kp3.cpp
+
+# Build rule for target.
+kp3.cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 kp3.cpp
+.PHONY : kp3.cpp
+
+# fast build rule for target.
+kp3.cpp/fast:
+	$(MAKE) -f CMakeFiles/kp3.cpp.dir/build.make CMakeFiles/kp3.cpp.dir/build
+.PHONY : kp3.cpp/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-2-2
+
+# Build rule for target.
+zadanie-2-2: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-2-2
+.PHONY : zadanie-2-2
+
+# fast build rule for target.
+zadanie-2-2/fast:
+	$(MAKE) -f CMakeFiles/zadanie-2-2.dir/build.make CMakeFiles/zadanie-2-2.dir/build
+.PHONY : zadanie-2-2/fast
+
+#=============================================================================
+# Target rules for targets named zadanie-6-3
+
+# Build rule for target.
+zadanie-6-3: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 zadanie-6-3
+.PHONY : zadanie-6-3
+
+# fast build rule for target.
+zadanie-6-3/fast:
+	$(MAKE) -f CMakeFiles/zadanie-6-3.dir/build.make CMakeFiles/zadanie-6-3.dir/build
+.PHONY : zadanie-6-3/fast
 
 #=============================================================================
 # Target rules for targets named zadanie-2-4
@@ -319,58 +683,6 @@ zadanie-2-1/fast:
 .PHONY : zadanie-2-1/fast
 
 #=============================================================================
-# Target rules for targets named zadanie-4-1.2
-
-# Build rule for target.
-zadanie-4-1.2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-4-1.2
-.PHONY : zadanie-4-1.2
-
-# fast build rule for target.
-zadanie-4-1.2/fast:
-	$(MAKE) -f CMakeFiles/zadanie-4-1.2.dir/build.make CMakeFiles/zadanie-4-1.2.dir/build
-.PHONY : zadanie-4-1.2/fast
-
-#=============================================================================
-# Target rules for targets named zadanie-2-6
-
-# Build rule for target.
-zadanie-2-6: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-2-6
-.PHONY : zadanie-2-6
-
-# fast build rule for target.
-zadanie-2-6/fast:
-	$(MAKE) -f CMakeFiles/zadanie-2-6.dir/build.make CMakeFiles/zadanie-2-6.dir/build
-.PHONY : zadanie-2-6/fast
-
-#=============================================================================
-# Target rules for targets named zadanie-2-3
-
-# Build rule for target.
-zadanie-2-3: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-2-3
-.PHONY : zadanie-2-3
-
-# fast build rule for target.
-zadanie-2-3/fast:
-	$(MAKE) -f CMakeFiles/zadanie-2-3.dir/build.make CMakeFiles/zadanie-2-3.dir/build
-.PHONY : zadanie-2-3/fast
-
-#=============================================================================
-# Target rules for targets named zadanie-1-6
-
-# Build rule for target.
-zadanie-1-6: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-1-6
-.PHONY : zadanie-1-6
-
-# fast build rule for target.
-zadanie-1-6/fast:
-	$(MAKE) -f CMakeFiles/zadanie-1-6.dir/build.make CMakeFiles/zadanie-1-6.dir/build
-.PHONY : zadanie-1-6/fast
-
-#=============================================================================
 # Target rules for targets named zadanie-2-8
 
 # Build rule for target.
@@ -382,19 +694,6 @@ zadanie-2-8: cmake_check_build_system
 zadanie-2-8/fast:
 	$(MAKE) -f CMakeFiles/zadanie-2-8.dir/build.make CMakeFiles/zadanie-2-8.dir/build
 .PHONY : zadanie-2-8/fast
-
-#=============================================================================
-# Target rules for targets named zadanie-1-3
-
-# Build rule for target.
-zadanie-1-3: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-1-3
-.PHONY : zadanie-1-3
-
-# fast build rule for target.
-zadanie-1-3/fast:
-	$(MAKE) -f CMakeFiles/zadanie-1-3.dir/build.make CMakeFiles/zadanie-1-3.dir/build
-.PHONY : zadanie-1-3/fast
 
 #=============================================================================
 # Target rules for targets named zadanie-5-4
@@ -436,58 +735,6 @@ zadanie-3-1/fast:
 .PHONY : zadanie-3-1/fast
 
 #=============================================================================
-# Target rules for targets named zadanie-5-2
-
-# Build rule for target.
-zadanie-5-2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-5-2
-.PHONY : zadanie-5-2
-
-# fast build rule for target.
-zadanie-5-2/fast:
-	$(MAKE) -f CMakeFiles/zadanie-5-2.dir/build.make CMakeFiles/zadanie-5-2.dir/build
-.PHONY : zadanie-5-2/fast
-
-#=============================================================================
-# Target rules for targets named zadanie-1-4
-
-# Build rule for target.
-zadanie-1-4: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-1-4
-.PHONY : zadanie-1-4
-
-# fast build rule for target.
-zadanie-1-4/fast:
-	$(MAKE) -f CMakeFiles/zadanie-1-4.dir/build.make CMakeFiles/zadanie-1-4.dir/build
-.PHONY : zadanie-1-4/fast
-
-#=============================================================================
-# Target rules for targets named zadanie-1-5
-
-# Build rule for target.
-zadanie-1-5: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-1-5
-.PHONY : zadanie-1-5
-
-# fast build rule for target.
-zadanie-1-5/fast:
-	$(MAKE) -f CMakeFiles/zadanie-1-5.dir/build.make CMakeFiles/zadanie-1-5.dir/build
-.PHONY : zadanie-1-5/fast
-
-#=============================================================================
-# Target rules for targets named zadanie-1-2
-
-# Build rule for target.
-zadanie-1-2: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 zadanie-1-2
-.PHONY : zadanie-1-2
-
-# fast build rule for target.
-zadanie-1-2/fast:
-	$(MAKE) -f CMakeFiles/zadanie-1-2.dir/build.make CMakeFiles/zadanie-1-2.dir/build
-.PHONY : zadanie-1-2/fast
-
-#=============================================================================
 # Target rules for targets named zadanie-1-1
 
 # Build rule for target.
@@ -526,6 +773,195 @@ dawid-dziala.s: dawid-dziala.cpp.s
 dawid-dziala.cpp.s:
 	$(MAKE) -f CMakeFiles/dawid-dziala.dir/build.make CMakeFiles/dawid-dziala.dir/dawid-dziala.cpp.s
 .PHONY : dawid-dziala.cpp.s
+
+kolos1.o: kolos1.cpp.o
+
+.PHONY : kolos1.o
+
+# target to build an object file
+kolos1.cpp.o:
+	$(MAKE) -f CMakeFiles/kolos1.cpp.dir/build.make CMakeFiles/kolos1.cpp.dir/kolos1.cpp.o
+.PHONY : kolos1.cpp.o
+
+kolos1.i: kolos1.cpp.i
+
+.PHONY : kolos1.i
+
+# target to preprocess a source file
+kolos1.cpp.i:
+	$(MAKE) -f CMakeFiles/kolos1.cpp.dir/build.make CMakeFiles/kolos1.cpp.dir/kolos1.cpp.i
+.PHONY : kolos1.cpp.i
+
+kolos1.s: kolos1.cpp.s
+
+.PHONY : kolos1.s
+
+# target to generate assembly for a file
+kolos1.cpp.s:
+	$(MAKE) -f CMakeFiles/kolos1.cpp.dir/build.make CMakeFiles/kolos1.cpp.dir/kolos1.cpp.s
+.PHONY : kolos1.cpp.s
+
+kp1.o: kp1.cpp.o
+
+.PHONY : kp1.o
+
+# target to build an object file
+kp1.cpp.o:
+	$(MAKE) -f CMakeFiles/kp1.cpp.dir/build.make CMakeFiles/kp1.cpp.dir/kp1.cpp.o
+.PHONY : kp1.cpp.o
+
+kp1.i: kp1.cpp.i
+
+.PHONY : kp1.i
+
+# target to preprocess a source file
+kp1.cpp.i:
+	$(MAKE) -f CMakeFiles/kp1.cpp.dir/build.make CMakeFiles/kp1.cpp.dir/kp1.cpp.i
+.PHONY : kp1.cpp.i
+
+kp1.s: kp1.cpp.s
+
+.PHONY : kp1.s
+
+# target to generate assembly for a file
+kp1.cpp.s:
+	$(MAKE) -f CMakeFiles/kp1.cpp.dir/build.make CMakeFiles/kp1.cpp.dir/kp1.cpp.s
+.PHONY : kp1.cpp.s
+
+kp2.o: kp2.cpp.o
+
+.PHONY : kp2.o
+
+# target to build an object file
+kp2.cpp.o:
+	$(MAKE) -f CMakeFiles/kp2.cpp.dir/build.make CMakeFiles/kp2.cpp.dir/kp2.cpp.o
+.PHONY : kp2.cpp.o
+
+kp2.i: kp2.cpp.i
+
+.PHONY : kp2.i
+
+# target to preprocess a source file
+kp2.cpp.i:
+	$(MAKE) -f CMakeFiles/kp2.cpp.dir/build.make CMakeFiles/kp2.cpp.dir/kp2.cpp.i
+.PHONY : kp2.cpp.i
+
+kp2.s: kp2.cpp.s
+
+.PHONY : kp2.s
+
+# target to generate assembly for a file
+kp2.cpp.s:
+	$(MAKE) -f CMakeFiles/kp2.cpp.dir/build.make CMakeFiles/kp2.cpp.dir/kp2.cpp.s
+.PHONY : kp2.cpp.s
+
+kp3.o: kp3.cpp.o
+
+.PHONY : kp3.o
+
+# target to build an object file
+kp3.cpp.o:
+	$(MAKE) -f CMakeFiles/kp3.cpp.dir/build.make CMakeFiles/kp3.cpp.dir/kp3.cpp.o
+.PHONY : kp3.cpp.o
+
+kp3.i: kp3.cpp.i
+
+.PHONY : kp3.i
+
+# target to preprocess a source file
+kp3.cpp.i:
+	$(MAKE) -f CMakeFiles/kp3.cpp.dir/build.make CMakeFiles/kp3.cpp.dir/kp3.cpp.i
+.PHONY : kp3.cpp.i
+
+kp3.s: kp3.cpp.s
+
+.PHONY : kp3.s
+
+# target to generate assembly for a file
+kp3.cpp.s:
+	$(MAKE) -f CMakeFiles/kp3.cpp.dir/build.make CMakeFiles/kp3.cpp.dir/kp3.cpp.s
+.PHONY : kp3.cpp.s
+
+kp4.o: kp4.cpp.o
+
+.PHONY : kp4.o
+
+# target to build an object file
+kp4.cpp.o:
+	$(MAKE) -f CMakeFiles/kp4.cpp.dir/build.make CMakeFiles/kp4.cpp.dir/kp4.cpp.o
+.PHONY : kp4.cpp.o
+
+kp4.i: kp4.cpp.i
+
+.PHONY : kp4.i
+
+# target to preprocess a source file
+kp4.cpp.i:
+	$(MAKE) -f CMakeFiles/kp4.cpp.dir/build.make CMakeFiles/kp4.cpp.dir/kp4.cpp.i
+.PHONY : kp4.cpp.i
+
+kp4.s: kp4.cpp.s
+
+.PHONY : kp4.s
+
+# target to generate assembly for a file
+kp4.cpp.s:
+	$(MAKE) -f CMakeFiles/kp4.cpp.dir/build.make CMakeFiles/kp4.cpp.dir/kp4.cpp.s
+.PHONY : kp4.cpp.s
+
+kp_3.o: kp_3.cpp.o
+
+.PHONY : kp_3.o
+
+# target to build an object file
+kp_3.cpp.o:
+	$(MAKE) -f CMakeFiles/kp_3.cpp.dir/build.make CMakeFiles/kp_3.cpp.dir/kp_3.cpp.o
+.PHONY : kp_3.cpp.o
+
+kp_3.i: kp_3.cpp.i
+
+.PHONY : kp_3.i
+
+# target to preprocess a source file
+kp_3.cpp.i:
+	$(MAKE) -f CMakeFiles/kp_3.cpp.dir/build.make CMakeFiles/kp_3.cpp.dir/kp_3.cpp.i
+.PHONY : kp_3.cpp.i
+
+kp_3.s: kp_3.cpp.s
+
+.PHONY : kp_3.s
+
+# target to generate assembly for a file
+kp_3.cpp.s:
+	$(MAKE) -f CMakeFiles/kp_3.cpp.dir/build.make CMakeFiles/kp_3.cpp.dir/kp_3.cpp.s
+.PHONY : kp_3.cpp.s
+
+kp_4.o: kp_4.cpp.o
+
+.PHONY : kp_4.o
+
+# target to build an object file
+kp_4.cpp.o:
+	$(MAKE) -f CMakeFiles/kp_4.cpp.dir/build.make CMakeFiles/kp_4.cpp.dir/kp_4.cpp.o
+.PHONY : kp_4.cpp.o
+
+kp_4.i: kp_4.cpp.i
+
+.PHONY : kp_4.i
+
+# target to preprocess a source file
+kp_4.cpp.i:
+	$(MAKE) -f CMakeFiles/kp_4.cpp.dir/build.make CMakeFiles/kp_4.cpp.dir/kp_4.cpp.i
+.PHONY : kp_4.cpp.i
+
+kp_4.s: kp_4.cpp.s
+
+.PHONY : kp_4.s
+
+# target to generate assembly for a file
+kp_4.cpp.s:
+	$(MAKE) -f CMakeFiles/kp_4.cpp.dir/build.make CMakeFiles/kp_4.cpp.dir/kp_4.cpp.s
+.PHONY : kp_4.cpp.s
 
 zadanie-1-1.o: zadanie-1-1.cpp.o
 
@@ -1013,33 +1449,6 @@ zadanie-3-2.cpp.s:
 	$(MAKE) -f CMakeFiles/zadanie-3-2.dir/build.make CMakeFiles/zadanie-3-2.dir/zadanie-3-2.cpp.s
 .PHONY : zadanie-3-2.cpp.s
 
-zadanie-3-3.o: zadanie-3-3.cpp.o
-
-.PHONY : zadanie-3-3.o
-
-# target to build an object file
-zadanie-3-3.cpp.o:
-	$(MAKE) -f CMakeFiles/zadanie-3-3.dir/build.make CMakeFiles/zadanie-3-3.dir/zadanie-3-3.cpp.o
-.PHONY : zadanie-3-3.cpp.o
-
-zadanie-3-3.i: zadanie-3-3.cpp.i
-
-.PHONY : zadanie-3-3.i
-
-# target to preprocess a source file
-zadanie-3-3.cpp.i:
-	$(MAKE) -f CMakeFiles/zadanie-3-3.dir/build.make CMakeFiles/zadanie-3-3.dir/zadanie-3-3.cpp.i
-.PHONY : zadanie-3-3.cpp.i
-
-zadanie-3-3.s: zadanie-3-3.cpp.s
-
-.PHONY : zadanie-3-3.s
-
-# target to generate assembly for a file
-zadanie-3-3.cpp.s:
-	$(MAKE) -f CMakeFiles/zadanie-3-3.dir/build.make CMakeFiles/zadanie-3-3.dir/zadanie-3-3.cpp.s
-.PHONY : zadanie-3-3.cpp.s
-
 zadanie-3-6.o: zadanie-3-6.cpp.o
 
 .PHONY : zadanie-3-6.o
@@ -1256,59 +1665,410 @@ zadanie-5-5-1.cpp.s:
 	$(MAKE) -f CMakeFiles/zadanie-5-5-1.dir/build.make CMakeFiles/zadanie-5-5-1.dir/zadanie-5-5-1.cpp.s
 .PHONY : zadanie-5-5-1.cpp.s
 
-zadanie-5-5-2.o: zadanie-5-5-2.cpp.o
+zadanie-6-1.o: zadanie-6-1.cpp.o
 
-.PHONY : zadanie-5-5-2.o
-
-# target to build an object file
-zadanie-5-5-2.cpp.o:
-	$(MAKE) -f CMakeFiles/zadanie-5-5-2.dir/build.make CMakeFiles/zadanie-5-5-2.dir/zadanie-5-5-2.cpp.o
-.PHONY : zadanie-5-5-2.cpp.o
-
-zadanie-5-5-2.i: zadanie-5-5-2.cpp.i
-
-.PHONY : zadanie-5-5-2.i
-
-# target to preprocess a source file
-zadanie-5-5-2.cpp.i:
-	$(MAKE) -f CMakeFiles/zadanie-5-5-2.dir/build.make CMakeFiles/zadanie-5-5-2.dir/zadanie-5-5-2.cpp.i
-.PHONY : zadanie-5-5-2.cpp.i
-
-zadanie-5-5-2.s: zadanie-5-5-2.cpp.s
-
-.PHONY : zadanie-5-5-2.s
-
-# target to generate assembly for a file
-zadanie-5-5-2.cpp.s:
-	$(MAKE) -f CMakeFiles/zadanie-5-5-2.dir/build.make CMakeFiles/zadanie-5-5-2.dir/zadanie-5-5-2.cpp.s
-.PHONY : zadanie-5-5-2.cpp.s
-
-zadanie-5-5.o: zadanie-5-5.cpp.o
-
-.PHONY : zadanie-5-5.o
+.PHONY : zadanie-6-1.o
 
 # target to build an object file
-zadanie-5-5.cpp.o:
-	$(MAKE) -f CMakeFiles/zadanie-5-5.dir/build.make CMakeFiles/zadanie-5-5.dir/zadanie-5-5.cpp.o
-.PHONY : zadanie-5-5.cpp.o
+zadanie-6-1.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-6-1.dir/build.make CMakeFiles/zadanie-6-1.dir/zadanie-6-1.cpp.o
+.PHONY : zadanie-6-1.cpp.o
 
-zadanie-5-5.i: zadanie-5-5.cpp.i
+zadanie-6-1.i: zadanie-6-1.cpp.i
 
-.PHONY : zadanie-5-5.i
+.PHONY : zadanie-6-1.i
 
 # target to preprocess a source file
-zadanie-5-5.cpp.i:
-	$(MAKE) -f CMakeFiles/zadanie-5-5.dir/build.make CMakeFiles/zadanie-5-5.dir/zadanie-5-5.cpp.i
-.PHONY : zadanie-5-5.cpp.i
+zadanie-6-1.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-6-1.dir/build.make CMakeFiles/zadanie-6-1.dir/zadanie-6-1.cpp.i
+.PHONY : zadanie-6-1.cpp.i
 
-zadanie-5-5.s: zadanie-5-5.cpp.s
+zadanie-6-1.s: zadanie-6-1.cpp.s
 
-.PHONY : zadanie-5-5.s
+.PHONY : zadanie-6-1.s
 
 # target to generate assembly for a file
-zadanie-5-5.cpp.s:
-	$(MAKE) -f CMakeFiles/zadanie-5-5.dir/build.make CMakeFiles/zadanie-5-5.dir/zadanie-5-5.cpp.s
-.PHONY : zadanie-5-5.cpp.s
+zadanie-6-1.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-6-1.dir/build.make CMakeFiles/zadanie-6-1.dir/zadanie-6-1.cpp.s
+.PHONY : zadanie-6-1.cpp.s
+
+zadanie-6-2.o: zadanie-6-2.cpp.o
+
+.PHONY : zadanie-6-2.o
+
+# target to build an object file
+zadanie-6-2.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-6-2.dir/build.make CMakeFiles/zadanie-6-2.dir/zadanie-6-2.cpp.o
+.PHONY : zadanie-6-2.cpp.o
+
+zadanie-6-2.i: zadanie-6-2.cpp.i
+
+.PHONY : zadanie-6-2.i
+
+# target to preprocess a source file
+zadanie-6-2.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-6-2.dir/build.make CMakeFiles/zadanie-6-2.dir/zadanie-6-2.cpp.i
+.PHONY : zadanie-6-2.cpp.i
+
+zadanie-6-2.s: zadanie-6-2.cpp.s
+
+.PHONY : zadanie-6-2.s
+
+# target to generate assembly for a file
+zadanie-6-2.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-6-2.dir/build.make CMakeFiles/zadanie-6-2.dir/zadanie-6-2.cpp.s
+.PHONY : zadanie-6-2.cpp.s
+
+zadanie-6-3.o: zadanie-6-3.cpp.o
+
+.PHONY : zadanie-6-3.o
+
+# target to build an object file
+zadanie-6-3.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-6-3.dir/build.make CMakeFiles/zadanie-6-3.dir/zadanie-6-3.cpp.o
+.PHONY : zadanie-6-3.cpp.o
+
+zadanie-6-3.i: zadanie-6-3.cpp.i
+
+.PHONY : zadanie-6-3.i
+
+# target to preprocess a source file
+zadanie-6-3.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-6-3.dir/build.make CMakeFiles/zadanie-6-3.dir/zadanie-6-3.cpp.i
+.PHONY : zadanie-6-3.cpp.i
+
+zadanie-6-3.s: zadanie-6-3.cpp.s
+
+.PHONY : zadanie-6-3.s
+
+# target to generate assembly for a file
+zadanie-6-3.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-6-3.dir/build.make CMakeFiles/zadanie-6-3.dir/zadanie-6-3.cpp.s
+.PHONY : zadanie-6-3.cpp.s
+
+zadanie-6-4.o: zadanie-6-4.cpp.o
+
+.PHONY : zadanie-6-4.o
+
+# target to build an object file
+zadanie-6-4.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-6-4.dir/build.make CMakeFiles/zadanie-6-4.dir/zadanie-6-4.cpp.o
+.PHONY : zadanie-6-4.cpp.o
+
+zadanie-6-4.i: zadanie-6-4.cpp.i
+
+.PHONY : zadanie-6-4.i
+
+# target to preprocess a source file
+zadanie-6-4.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-6-4.dir/build.make CMakeFiles/zadanie-6-4.dir/zadanie-6-4.cpp.i
+.PHONY : zadanie-6-4.cpp.i
+
+zadanie-6-4.s: zadanie-6-4.cpp.s
+
+.PHONY : zadanie-6-4.s
+
+# target to generate assembly for a file
+zadanie-6-4.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-6-4.dir/build.make CMakeFiles/zadanie-6-4.dir/zadanie-6-4.cpp.s
+.PHONY : zadanie-6-4.cpp.s
+
+zadanie-7-1.o: zadanie-7-1.cpp.o
+
+.PHONY : zadanie-7-1.o
+
+# target to build an object file
+zadanie-7-1.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-7-1.dir/build.make CMakeFiles/zadanie-7-1.dir/zadanie-7-1.cpp.o
+.PHONY : zadanie-7-1.cpp.o
+
+zadanie-7-1.i: zadanie-7-1.cpp.i
+
+.PHONY : zadanie-7-1.i
+
+# target to preprocess a source file
+zadanie-7-1.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-7-1.dir/build.make CMakeFiles/zadanie-7-1.dir/zadanie-7-1.cpp.i
+.PHONY : zadanie-7-1.cpp.i
+
+zadanie-7-1.s: zadanie-7-1.cpp.s
+
+.PHONY : zadanie-7-1.s
+
+# target to generate assembly for a file
+zadanie-7-1.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-7-1.dir/build.make CMakeFiles/zadanie-7-1.dir/zadanie-7-1.cpp.s
+.PHONY : zadanie-7-1.cpp.s
+
+zadanie-7-2.o: zadanie-7-2.cpp.o
+
+.PHONY : zadanie-7-2.o
+
+# target to build an object file
+zadanie-7-2.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-7-2.dir/build.make CMakeFiles/zadanie-7-2.dir/zadanie-7-2.cpp.o
+.PHONY : zadanie-7-2.cpp.o
+
+zadanie-7-2.i: zadanie-7-2.cpp.i
+
+.PHONY : zadanie-7-2.i
+
+# target to preprocess a source file
+zadanie-7-2.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-7-2.dir/build.make CMakeFiles/zadanie-7-2.dir/zadanie-7-2.cpp.i
+.PHONY : zadanie-7-2.cpp.i
+
+zadanie-7-2.s: zadanie-7-2.cpp.s
+
+.PHONY : zadanie-7-2.s
+
+# target to generate assembly for a file
+zadanie-7-2.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-7-2.dir/build.make CMakeFiles/zadanie-7-2.dir/zadanie-7-2.cpp.s
+.PHONY : zadanie-7-2.cpp.s
+
+zadanie-7-3.o: zadanie-7-3.cpp.o
+
+.PHONY : zadanie-7-3.o
+
+# target to build an object file
+zadanie-7-3.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-7-3.dir/build.make CMakeFiles/zadanie-7-3.dir/zadanie-7-3.cpp.o
+.PHONY : zadanie-7-3.cpp.o
+
+zadanie-7-3.i: zadanie-7-3.cpp.i
+
+.PHONY : zadanie-7-3.i
+
+# target to preprocess a source file
+zadanie-7-3.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-7-3.dir/build.make CMakeFiles/zadanie-7-3.dir/zadanie-7-3.cpp.i
+.PHONY : zadanie-7-3.cpp.i
+
+zadanie-7-3.s: zadanie-7-3.cpp.s
+
+.PHONY : zadanie-7-3.s
+
+# target to generate assembly for a file
+zadanie-7-3.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-7-3.dir/build.make CMakeFiles/zadanie-7-3.dir/zadanie-7-3.cpp.s
+.PHONY : zadanie-7-3.cpp.s
+
+zadanie-9-1.1.o: zadanie-9-1.1.cpp.o
+
+.PHONY : zadanie-9-1.1.o
+
+# target to build an object file
+zadanie-9-1.1.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.1.cpp.dir/build.make CMakeFiles/zadanie-9-1.1.cpp.dir/zadanie-9-1.1.cpp.o
+.PHONY : zadanie-9-1.1.cpp.o
+
+zadanie-9-1.1.i: zadanie-9-1.1.cpp.i
+
+.PHONY : zadanie-9-1.1.i
+
+# target to preprocess a source file
+zadanie-9-1.1.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.1.cpp.dir/build.make CMakeFiles/zadanie-9-1.1.cpp.dir/zadanie-9-1.1.cpp.i
+.PHONY : zadanie-9-1.1.cpp.i
+
+zadanie-9-1.1.s: zadanie-9-1.1.cpp.s
+
+.PHONY : zadanie-9-1.1.s
+
+# target to generate assembly for a file
+zadanie-9-1.1.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.1.cpp.dir/build.make CMakeFiles/zadanie-9-1.1.cpp.dir/zadanie-9-1.1.cpp.s
+.PHONY : zadanie-9-1.1.cpp.s
+
+zadanie-9-1.2.o: zadanie-9-1.2.cpp.o
+
+.PHONY : zadanie-9-1.2.o
+
+# target to build an object file
+zadanie-9-1.2.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.2.cpp.dir/build.make CMakeFiles/zadanie-9-1.2.cpp.dir/zadanie-9-1.2.cpp.o
+.PHONY : zadanie-9-1.2.cpp.o
+
+zadanie-9-1.2.i: zadanie-9-1.2.cpp.i
+
+.PHONY : zadanie-9-1.2.i
+
+# target to preprocess a source file
+zadanie-9-1.2.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.2.cpp.dir/build.make CMakeFiles/zadanie-9-1.2.cpp.dir/zadanie-9-1.2.cpp.i
+.PHONY : zadanie-9-1.2.cpp.i
+
+zadanie-9-1.2.s: zadanie-9-1.2.cpp.s
+
+.PHONY : zadanie-9-1.2.s
+
+# target to generate assembly for a file
+zadanie-9-1.2.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.2.cpp.dir/build.make CMakeFiles/zadanie-9-1.2.cpp.dir/zadanie-9-1.2.cpp.s
+.PHONY : zadanie-9-1.2.cpp.s
+
+zadanie-9-1.3.o: zadanie-9-1.3.cpp.o
+
+.PHONY : zadanie-9-1.3.o
+
+# target to build an object file
+zadanie-9-1.3.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.3.cpp.dir/build.make CMakeFiles/zadanie-9-1.3.cpp.dir/zadanie-9-1.3.cpp.o
+.PHONY : zadanie-9-1.3.cpp.o
+
+zadanie-9-1.3.i: zadanie-9-1.3.cpp.i
+
+.PHONY : zadanie-9-1.3.i
+
+# target to preprocess a source file
+zadanie-9-1.3.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.3.cpp.dir/build.make CMakeFiles/zadanie-9-1.3.cpp.dir/zadanie-9-1.3.cpp.i
+.PHONY : zadanie-9-1.3.cpp.i
+
+zadanie-9-1.3.s: zadanie-9-1.3.cpp.s
+
+.PHONY : zadanie-9-1.3.s
+
+# target to generate assembly for a file
+zadanie-9-1.3.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.3.cpp.dir/build.make CMakeFiles/zadanie-9-1.3.cpp.dir/zadanie-9-1.3.cpp.s
+.PHONY : zadanie-9-1.3.cpp.s
+
+zadanie-9-1.o: zadanie-9-1.cpp.o
+
+.PHONY : zadanie-9-1.o
+
+# target to build an object file
+zadanie-9-1.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.cpp.dir/build.make CMakeFiles/zadanie-9-1.cpp.dir/zadanie-9-1.cpp.o
+.PHONY : zadanie-9-1.cpp.o
+
+zadanie-9-1.i: zadanie-9-1.cpp.i
+
+.PHONY : zadanie-9-1.i
+
+# target to preprocess a source file
+zadanie-9-1.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.cpp.dir/build.make CMakeFiles/zadanie-9-1.cpp.dir/zadanie-9-1.cpp.i
+.PHONY : zadanie-9-1.cpp.i
+
+zadanie-9-1.s: zadanie-9-1.cpp.s
+
+.PHONY : zadanie-9-1.s
+
+# target to generate assembly for a file
+zadanie-9-1.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-9-1.cpp.dir/build.make CMakeFiles/zadanie-9-1.cpp.dir/zadanie-9-1.cpp.s
+.PHONY : zadanie-9-1.cpp.s
+
+zadanie-9-2.o: zadanie-9-2.cpp.o
+
+.PHONY : zadanie-9-2.o
+
+# target to build an object file
+zadanie-9-2.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-9-2.cpp.dir/build.make CMakeFiles/zadanie-9-2.cpp.dir/zadanie-9-2.cpp.o
+.PHONY : zadanie-9-2.cpp.o
+
+zadanie-9-2.i: zadanie-9-2.cpp.i
+
+.PHONY : zadanie-9-2.i
+
+# target to preprocess a source file
+zadanie-9-2.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-9-2.cpp.dir/build.make CMakeFiles/zadanie-9-2.cpp.dir/zadanie-9-2.cpp.i
+.PHONY : zadanie-9-2.cpp.i
+
+zadanie-9-2.s: zadanie-9-2.cpp.s
+
+.PHONY : zadanie-9-2.s
+
+# target to generate assembly for a file
+zadanie-9-2.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-9-2.cpp.dir/build.make CMakeFiles/zadanie-9-2.cpp.dir/zadanie-9-2.cpp.s
+.PHONY : zadanie-9-2.cpp.s
+
+zadanie-9-3.o: zadanie-9-3.cpp.o
+
+.PHONY : zadanie-9-3.o
+
+# target to build an object file
+zadanie-9-3.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-9-3.cpp.dir/build.make CMakeFiles/zadanie-9-3.cpp.dir/zadanie-9-3.cpp.o
+.PHONY : zadanie-9-3.cpp.o
+
+zadanie-9-3.i: zadanie-9-3.cpp.i
+
+.PHONY : zadanie-9-3.i
+
+# target to preprocess a source file
+zadanie-9-3.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-9-3.cpp.dir/build.make CMakeFiles/zadanie-9-3.cpp.dir/zadanie-9-3.cpp.i
+.PHONY : zadanie-9-3.cpp.i
+
+zadanie-9-3.s: zadanie-9-3.cpp.s
+
+.PHONY : zadanie-9-3.s
+
+# target to generate assembly for a file
+zadanie-9-3.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-9-3.cpp.dir/build.make CMakeFiles/zadanie-9-3.cpp.dir/zadanie-9-3.cpp.s
+.PHONY : zadanie-9-3.cpp.s
+
+zadanie-9-4.o: zadanie-9-4.cpp.o
+
+.PHONY : zadanie-9-4.o
+
+# target to build an object file
+zadanie-9-4.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-9-4.cpp.dir/build.make CMakeFiles/zadanie-9-4.cpp.dir/zadanie-9-4.cpp.o
+.PHONY : zadanie-9-4.cpp.o
+
+zadanie-9-4.i: zadanie-9-4.cpp.i
+
+.PHONY : zadanie-9-4.i
+
+# target to preprocess a source file
+zadanie-9-4.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-9-4.cpp.dir/build.make CMakeFiles/zadanie-9-4.cpp.dir/zadanie-9-4.cpp.i
+.PHONY : zadanie-9-4.cpp.i
+
+zadanie-9-4.s: zadanie-9-4.cpp.s
+
+.PHONY : zadanie-9-4.s
+
+# target to generate assembly for a file
+zadanie-9-4.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-9-4.cpp.dir/build.make CMakeFiles/zadanie-9-4.cpp.dir/zadanie-9-4.cpp.s
+.PHONY : zadanie-9-4.cpp.s
+
+zadanie-9-5.o: zadanie-9-5.cpp.o
+
+.PHONY : zadanie-9-5.o
+
+# target to build an object file
+zadanie-9-5.cpp.o:
+	$(MAKE) -f CMakeFiles/zadanie-9-5.cpp.dir/build.make CMakeFiles/zadanie-9-5.cpp.dir/zadanie-9-5.cpp.o
+.PHONY : zadanie-9-5.cpp.o
+
+zadanie-9-5.i: zadanie-9-5.cpp.i
+
+.PHONY : zadanie-9-5.i
+
+# target to preprocess a source file
+zadanie-9-5.cpp.i:
+	$(MAKE) -f CMakeFiles/zadanie-9-5.cpp.dir/build.make CMakeFiles/zadanie-9-5.cpp.dir/zadanie-9-5.cpp.i
+.PHONY : zadanie-9-5.cpp.i
+
+zadanie-9-5.s: zadanie-9-5.cpp.s
+
+.PHONY : zadanie-9-5.s
+
+# target to generate assembly for a file
+zadanie-9-5.cpp.s:
+	$(MAKE) -f CMakeFiles/zadanie-9-5.cpp.dir/build.make CMakeFiles/zadanie-9-5.cpp.dir/zadanie-9-5.cpp.s
+.PHONY : zadanie-9-5.cpp.s
 
 # Help Target
 help:
@@ -1316,41 +2076,81 @@ help:
 	@echo "... all (the default if no target is provided)"
 	@echo "... clean"
 	@echo "... depend"
-	@echo "... rebuild_cache"
+	@echo "... kp_4.cpp"
+	@echo "... kp_3.cpp"
+	@echo "... kp1.cpp"
+	@echo "... zadanie-1-3"
 	@echo "... dawid-dziala"
-	@echo "... zadanie-5-5-2"
-	@echo "... zadanie-5-5-1"
+	@echo "... zadanie-9-4.cpp"
+	@echo "... zadanie-9-1.2.cpp"
+	@echo "... zadanie-9-1.1.cpp"
+	@echo "... zadanie-1-6"
+	@echo "... kolos1.cpp"
+	@echo "... zadanie-9-3.cpp"
+	@echo "... zadanie-9-1.3.cpp"
+	@echo "... zadanie-9-2.cpp"
+	@echo "... zadanie-1-2"
+	@echo "... zadanie-1-5"
 	@echo "... zadanie-5-1"
+	@echo "... zadanie-9-1.cpp"
+	@echo "... zadanie-7-1"
+	@echo "... zadanie-9-5.cpp"
+	@echo "... zadanie-7-3"
+	@echo "... zadanie-4-1.2"
+	@echo "... zadanie-7-2"
+	@echo "... zadanie-6-4"
+	@echo "... zadanie-6-2"
+	@echo "... zadanie-2-6"
+	@echo "... zadanie-6-1"
+	@echo "... zadanie-5-5-1"
+	@echo "... zadanie-1-4"
+	@echo "... zadanie-5-2"
 	@echo "... zadanie-3-6"
-	@echo "... zadanie-2-2"
-	@echo "... zadanie-3-3"
+	@echo "... rebuild_cache"
 	@echo "... zadanie-3-2"
 	@echo "... zadanie-2-10"
 	@echo "... zadanie-4-1"
 	@echo "... zadanie-2-9"
-	@echo "... zadanie-5-5"
-	@echo "... zadanie-5-3"
 	@echo "... zadanie-2-7"
+	@echo "... kp2.cpp"
+	@echo "... zadanie-5-3"
+	@echo "... zadanie-2-3"
+	@echo "... kp4.cpp"
+	@echo "... kp3.cpp"
+	@echo "... zadanie-2-2"
+	@echo "... zadanie-6-3"
+	@echo "... edit_cache"
 	@echo "... zadanie-2-4"
 	@echo "... zadanie-2-1"
-	@echo "... zadanie-4-1.2"
-	@echo "... zadanie-2-6"
-	@echo "... zadanie-2-3"
-	@echo "... zadanie-1-6"
 	@echo "... zadanie-2-8"
-	@echo "... zadanie-1-3"
 	@echo "... zadanie-5-4"
 	@echo "... zadanie-2-5"
 	@echo "... zadanie-3-1"
-	@echo "... zadanie-5-2"
-	@echo "... zadanie-1-4"
-	@echo "... zadanie-1-5"
-	@echo "... zadanie-1-2"
-	@echo "... edit_cache"
 	@echo "... zadanie-1-1"
 	@echo "... dawid-dziala.o"
 	@echo "... dawid-dziala.i"
 	@echo "... dawid-dziala.s"
+	@echo "... kolos1.o"
+	@echo "... kolos1.i"
+	@echo "... kolos1.s"
+	@echo "... kp1.o"
+	@echo "... kp1.i"
+	@echo "... kp1.s"
+	@echo "... kp2.o"
+	@echo "... kp2.i"
+	@echo "... kp2.s"
+	@echo "... kp3.o"
+	@echo "... kp3.i"
+	@echo "... kp3.s"
+	@echo "... kp4.o"
+	@echo "... kp4.i"
+	@echo "... kp4.s"
+	@echo "... kp_3.o"
+	@echo "... kp_3.i"
+	@echo "... kp_3.s"
+	@echo "... kp_4.o"
+	@echo "... kp_4.i"
+	@echo "... kp_4.s"
 	@echo "... zadanie-1-1.o"
 	@echo "... zadanie-1-1.i"
 	@echo "... zadanie-1-1.s"
@@ -1405,9 +2205,6 @@ help:
 	@echo "... zadanie-3-2.o"
 	@echo "... zadanie-3-2.i"
 	@echo "... zadanie-3-2.s"
-	@echo "... zadanie-3-3.o"
-	@echo "... zadanie-3-3.i"
-	@echo "... zadanie-3-3.s"
 	@echo "... zadanie-3-6.o"
 	@echo "... zadanie-3-6.i"
 	@echo "... zadanie-3-6.s"
@@ -1432,12 +2229,51 @@ help:
 	@echo "... zadanie-5-5-1.o"
 	@echo "... zadanie-5-5-1.i"
 	@echo "... zadanie-5-5-1.s"
-	@echo "... zadanie-5-5-2.o"
-	@echo "... zadanie-5-5-2.i"
-	@echo "... zadanie-5-5-2.s"
-	@echo "... zadanie-5-5.o"
-	@echo "... zadanie-5-5.i"
-	@echo "... zadanie-5-5.s"
+	@echo "... zadanie-6-1.o"
+	@echo "... zadanie-6-1.i"
+	@echo "... zadanie-6-1.s"
+	@echo "... zadanie-6-2.o"
+	@echo "... zadanie-6-2.i"
+	@echo "... zadanie-6-2.s"
+	@echo "... zadanie-6-3.o"
+	@echo "... zadanie-6-3.i"
+	@echo "... zadanie-6-3.s"
+	@echo "... zadanie-6-4.o"
+	@echo "... zadanie-6-4.i"
+	@echo "... zadanie-6-4.s"
+	@echo "... zadanie-7-1.o"
+	@echo "... zadanie-7-1.i"
+	@echo "... zadanie-7-1.s"
+	@echo "... zadanie-7-2.o"
+	@echo "... zadanie-7-2.i"
+	@echo "... zadanie-7-2.s"
+	@echo "... zadanie-7-3.o"
+	@echo "... zadanie-7-3.i"
+	@echo "... zadanie-7-3.s"
+	@echo "... zadanie-9-1.1.o"
+	@echo "... zadanie-9-1.1.i"
+	@echo "... zadanie-9-1.1.s"
+	@echo "... zadanie-9-1.2.o"
+	@echo "... zadanie-9-1.2.i"
+	@echo "... zadanie-9-1.2.s"
+	@echo "... zadanie-9-1.3.o"
+	@echo "... zadanie-9-1.3.i"
+	@echo "... zadanie-9-1.3.s"
+	@echo "... zadanie-9-1.o"
+	@echo "... zadanie-9-1.i"
+	@echo "... zadanie-9-1.s"
+	@echo "... zadanie-9-2.o"
+	@echo "... zadanie-9-2.i"
+	@echo "... zadanie-9-2.s"
+	@echo "... zadanie-9-3.o"
+	@echo "... zadanie-9-3.i"
+	@echo "... zadanie-9-3.s"
+	@echo "... zadanie-9-4.o"
+	@echo "... zadanie-9-4.i"
+	@echo "... zadanie-9-4.s"
+	@echo "... zadanie-9-5.o"
+	@echo "... zadanie-9-5.i"
+	@echo "... zadanie-9-5.s"
 .PHONY : help
 
 
